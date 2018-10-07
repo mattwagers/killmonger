@@ -1,581 +1,581 @@
-Itm,Cnd,Sentence
-1,a,Who do you think that the new professor isn't going to persuade?
-1,b,Who thinks that the new professor isn't going to persuade?
-1,c,Which donor do you think that the new professor isn't going to persuade?
-1,d,Which donor thinks that the new professor isn't going to persuade?
-1,e,Who do you think that the new professor isn't going to persuade anyone?
-1,f,Who thinks that the new professor isn't going to persuade anyone?
-1,g,Which donor do you think that the new professor isn't going to persuade anyone?
-1,h,Which donor thinks that the new professor isn't going to persuade anyone?
-2,a,Who do you suppose that the new boss won't include?
-2,b,Who supposes that the new boss won't include?
-2,c,Which worker do you suppose that the new boss won't include?
-2,d,Which worker supposes that the new boss won't include?
-2,e,Who do you suppose that the new boss won't include anyone?
-2,f,Who supposes that the new boss won't include anyone?
-2,g,Which worker do you suppose that the new boss won't include anyone?
-2,h,Which worker supposes that the new boss won't include anyone?
-3,a,Who do you feel that the article will bother?
-3,b,Who feels that the article will bother?
-3,c,Which politician do you feel that the article will bother?
-3,d,Which politician feels that the article will bother?
-3,e,Who do you feel that the article will bother someone?
-3,f,Who feels that the article will bother someone?
-3,g,Which politician do you feel that the article will bother someone?
-3,h,Which politician feels that the article will bother someone?
-4,a,Who do you assume that the controversial politician would praise?
-4,b,Who assumes that the controversial politican would praise?
-4,c,Which author do you assume that the controversial politician would praise?
-4,d,Which author assumes that the controversial politican would praise?
-4,e,Who do you assume that the controversial politician would praise anyone?
-4,f,Who assumes that the controversial politician would praise anyone?
-4,g,Which author do you assume that the controversial politician would praise anyone?
-4,h,Which author assumes that the controversial politican would praise anyone?
-5,a,Who do you allege that the secretive publisher has protected?
-5,b,Who alleges that the secretive publisher has protected?
-5,c,Which senator do you allege that the secretive publisher has protected?
-5,d,Which senator alleges that the secretive publisher has protected?
-5,e,Who do you allege that the secretive publisher has protected someone?
-5,f,Who alleges that the secretive publisher has protected someone?
-5,g,Which senator do you allege that the secretive publisher has protected someone?
-5,h,Which senator alleges that the secretive publisher has protected someone?
-6,a,Who do you argue that the social secretary should invite?
-6,b,Who argues that the social secretary should invite?
-6,c,Which celebrity do you argue that the social secretary should invite?
-6,d,Which celebrity argues that the social secretary should invite?
-6,e,Who do you argue that the social secretary should invite someone?
-6,f,Who argues that the social secretary should invite someone?
-6,g,Which celebrity do you argue that the social secretary should invite someone?
-6,h,Which celebrity argues that the social secretary should invite someone?
-7,a,Who are you sure that the talented kid could imitate?
-7,b,Who is sure that the talented kid could imitate?
-7,c,Which teacher are you sure that the talented kid could imitate?
-7,d,Which teacher is sure that the talented kid could imitate?
-7,e,Who are you sure  that the talented kid could imitate anyone?
-7,f,Who is sure that the talented kid could imitate anyone?
-7,g,Which teacher are you sure that the talented kid could imitate anyone?
-7,h,Which teacher is sure that the talented kid could imitate anyone?
-8,a,Who are you certain that the rookie agent can't guard?
-8,b,Who is certain that the rookie agent can't guard?
-8,c,Which witness are you certain that the rookie agent can't guard?
-8,d,Which witness is certain that the rookie agent can't guard?
-8,e,Who are you certain that the rookie agent can't guard anyone?
-8,f,Who is certain that the rookie agent can't guard anyone?
-8,g,Which witnes are you certain that the rookie agent can't guard anyone?
-8,h,Which witness is certain that the rookie agent can't guard anyone?
-9,a,Who do you think that the overworked manager should employ?
-9,b,Who thinks that the overworked manager should employ?
-9,c,Which consultant do you think that the overworked manager should employ?
-9,d,Which consultant thinks that the overworked manager should employ?
-9,e,Who do you think that the overworked manager should employ someone?
-9,f,Who thinks that the overworked manager should employ someone?
-9,g,Which consultant do you think that the overworked manager should employ someone?
-9,h,Which consultant thinks that the overworked manager should employ someone?
-10,a,Who do you assume that the crooked CEO could persuade?
-10,b,Who assumes that the crooked CEO could persuade?
-10,c,Which shareholder do you assume that the crooked CEO could persuade?
-10,d,Which shareholder assumes that the crooked CEO could persuade?
-10,e,Who do you assume that the crooked CEO could persuade anyone?
-10,f,Who assumes that the crooked CEO could persuade anyone?
-10,g,Which shareholder do you assume that the crooked CEO could persuade anyone? 
-10,h,Which shareholder assumes that the crooked CEO could persuade anyone?
-11,a,Who don't you believe that the parrot could imitate?
-11,b,Who doesn't believe that the parrot could imitate?
-11,c,Which diva don't you believe that the parrot could imitate?
-11,d,Which diva doesn't believe that the parrot could imitate?
-11,e,Who don't you believe that the parrot could imitate anyone?
-11,f,Who doesn't believe that the parrot could imitate anyone?
-11,g,Which diva don't you believe that the parrot could imitate anyone?
-11,h,Which diva doesn't believe that the parrot could imitate anyone?
-12,a,Who do you predict that the rumor will bother?
-12,b,Who predicts that the rumor will bother?
-12,c,Which actor do you predict that the rumor will bother?
-12,d,Which actor predicts that the rumor will bother?
-12,e,Who do you predict that the rumor will bother someone?
-12,f,Who predicts that the rumor will bother someone?
-12,g,Which actor do you predict that the rumor will bother someone?
-12,h,Which actor predicts that the rumor will bother someone?
-13,a,Who did you say that the unpredictable dictator has praised?
-13,b,Who says that the unpredictable dictator has praise?
-13,c,Which philosopher did you say that the unpredictable dictator has praised?
-13,d,Which philosopher said that the unpredictable dictator has praised?
-13,e,Who did you say that the unpredictable dictator has praised someone?
-13,f,Who said that the unpredictable dictator has praised someone?
-13,g,Which philosopher did you say that the unpredictable dictator has praised someone?
-13,h,Which philosopher said that the unpredictable dictator has praised someone?
-14,a,Who were you surprised that the conference organizers couldn't invite?
-14,b,Who was surprised that the conference organizers couldn't invite?
-14,c,Which speaker were you surprised that the conference organizers couldn't invite?
-14,d,Which speaker was surprised that the conference organizers couldn't invite?
-14,e,Who were you surprised that the conference organizers couldn't invite anyone?
-14,f,Who was surprised that the conference organizers couldn't invite anyone?
-14,g,Which speaker were you surprised that the conference organizers couldn't invite anyone?
-14,h,Which speaker was surprised that the conference organizers couldn't invite anyone?
-15,a,Who do you think the accountant should employ?
-15,b,Who thinks that the accountant should employ?
-15,c,Which lawyer do you think the accountant should employ?
-15,d,Which lawyer thinks the accountant should employ?
-15,e,Who do you think the accountant should employ someone?
-15,f,Who thinks that the accountant should employ someone?
-15,g,Which lawyer do you think the accountant should employ someone?
-15,h,Which lawyer thinks the accountant should employ someone?
-16,a,Who were you sure that the coach would include?
-16,b,Who was sure that the coach would include?
-16,c,Which player are you sure that the coach would include?
-16,d,Which player is sure that the coach would include?
-16,e,Who are you sure that the coach would include anyone?
-16,f,Who is sure that the coach would include anyone?
-16,g,Which player are you sure that the coach would include anyone?
-16,h,Which player is sure that the coach would include anyone?
-17,a,Who does everyone suppose that the new plan won't excite?
-17,b,Who supposes that the new plan won't excite?
-17,c,Which voters does everyone suppose that the new plan won't excite?
-17,d,Which voters suppose that the new plan won’t excite?
-17,e,Who does everyone suppose that the new plan won't excite anyone?
-17,f,Who supposes that the new plan won't excite anyone?
-17,g,Which voters does everyone suppose that the new plan won't excite anyone?
-17,h,Which voters suppose that the new plan won't excite anyone?
-18,a,Who is Mary convinced that the authorities should arrest?
-18,b,Who is convinced that the authorities should arrest?
-18,c,Which aide is Mary convinced that the authorities should arrest?
-18,d,Which aide is convinced that the the investigators should arrest?
-18,e,Who is Mary convinced that the authorities should arrest someone?
-18,f,Who is convinced that the authorities should arrest someone?
-18,g,Which aide is Mary convinced that the authorities should arrest someone?
-18,h,Which aide is convinced that the authorities should arrest someone?
-19,a,Who does everyone assume that the board of directors will appoint?
-19,b,Who assumes that the board of directors will appoint?
-19,c,Which executive does everyone assume that the board of directors will appoint?
-19,d,Which executive assumes that the board of directors will appoint?
-19,e,Who does everyone assume that the board of directors will appoint someone?
-19,f,Who assumes that the board of directors will appoint someone?
-19,g,Which executive does everyone assume that the board of directors will appoint someone?
-19,h,Which executive assumes that the board of directors will appoint someone?
-20,a,Who is everyone sure that the witness will recognize?
-20,b,Who is sure that the witness will recognize?
-20,c,Which accomplice is everyone sure that the bystander will recognize?
-20,d,Which accomplice is sure that the witness will recognize?
-20,e,Who is everyone sure that the witness will recognize someone?
-20,f,Who is sure that the witness will recognize someone?
-20,g,Which accomplice is everyone sure that the bystander will recognize someone?
-20,h,Which accomplice is sure that the witness will recognize someone?
-21,a,Who will John be delighted that the columnist protected?
-21,b,Who will be delighted that the columnist protected?
-21,c,Which critic will John be delighted that the columnist protected?
-21,d,Which critic will be delighted that the columnist protected?
-21,e,Who will John be delighted that the columnist protected someone?
-21,f,Who will be delighted that the columnist protected someone?
-21,g,Which critic will John be delighted that the columnist protected someone?
-21,h,Which critic will be delighted that the columnist protected someone?
-22,a,Who did Jen suggest that the nurse should comfort?
-22,b,Who suggested that the nurse should comfort?
-22,c,Which patient did Jen suggest that the nurse should comfort?
-22,d,Which patient suggested that the nurse should comfort?
-22,e,Who did Jen suggest that the nurse should comfort someone?
-22,f,Who suggested that the nurse should comfort someone?
-22,g,Which patient did Jen suggest that the nurse should comfort someone?
-22,h,Which patient suggested that the nurse should comfort someone?
-23,a,Who was Mark aware that the contractor wouldn't need?
-23,b,Who was aware that the contractor wouldn't need?
-23,c,Which carpenter was Mark aware that the contractor wouldn't need?
-23,d,Which carpenter was aware that the contractor wouldn't need?
-23,e,Who was Mark aware that the contractor wouldn't need anyone?
-23,f,Who was aware that the contractor wouldn't need anyone?
-23,g,Which carpenter was Mark aware that the contractor wouldn't need anyone?
-23,h,Which carpenter was aware that the contractor wouldn't need anyone?
-24,a,Who did everyone feel that the new teacher might terrify?
-24,b,Who felt that the new teacher might terrify?
-24,c,Which students did everyone feel that the new teacher might terrify?
-24,d,Which students felt that the new teacher might terrify?
-24,e,Who did everyone feel that the new teacher might terrify someone?
-24,f,Who felt that the new teacher might terrify someone?
-24,g,Which students did everyone feel that the new teacher might terrify someone?
-24,h,Which students felt that the new teacher might terrify someone?
-25,a,Who does Nora suspect that the judge must appoint?
-25,b,Who suspects that the judge must appoint?
-25,c,Which guardian does Nora suspect that the judge must appoint?
-25,d,Which guardian suspects that the judge must appoint?
-25,e,Who does Nora suspect that the judge must appoint someone?
-25,f,Who suspects that the judge must appoint someone?
-25,g,Which guardian does Nora suspect that the judge must appoint someone?
-25,h,Which guardian suspects that the judge must appoint someone?
-26,a,Who is everyone surprised that the FBI didn’t arrest?
-26,b,Who is surprised that the FBI didn’t arrest?
-26,c,Which stockbroker is everyone surprised that the FBI didn’t arrest?
-26,d,Which stockbroker is surprised that the FBI didn’t arrest?
-26,e,Who is everyone surprised that the FBI didn’t arrest anyone?
-26,f,Who is surprised that the FBI didn’t arrest anyone?
-26,g,Which stockbroker is everyone surprised that the FBI didn’t arrest anyone?
-26,h,Which stockbroker is surprised that the FBI didn’t arrest anyone?
-27,a,Who isn’t Pete convinced that the therapist can comfort?
-27,b,Who isn’t convinced that the therapist can comfort?
-27,c,Which survivor isn’t Pete convinced that the therapist can comfort?
-27,d,Which survivor isn’t convinced that the therapist can comfort?
-27,e,Who isn’t Pete convinced that the therapist can comfort anyone?
-27,f,Who isn’t convinced that the therapist can comfort anyone?
-27,g,Which survivor isn’t Pete convinced that the therapist can comfort anyone?
-27,h,Which survivor isn’t convinced that the therapist can comfort anyone?
-28,a,Who is nobody certain that the politician can excite?
-28,b,Who isn’t certain that the politician can excite?
-28,c,Which partisans is nobody certain that the politician can excite?
-28,d,Which partisans aren’t certain that the politician can excite?
-28,e,Who is nobody certain that the politician can excite anyone?
-28,f,Who isn’t certain that the politician can excite anyone?
-28,g,Which partisans is nobody certain that the politician can excite anyone?
-28,h,Which partisans aren’t certain that the politician can excite anyone?
-29,a,Who is Selena adamant that the captain should guard?
-29,b,Who is adamant that the captain should guard?
-29,c,Which diplomat is Selena adamant that the captain should guard?
-29,d,Which diplomat is adamant that the captain should guard?
-29,e,Who is Selena adamant that the captain should guard someone?
-29,f,Who is adamant that the captain should guard someone?
-29,g,Which diplomat is Selena adamant that the captain should guard someone?
-29,h,Which diplomat is adamant that the captain should guard someone?
-30,a,Who does everyone know that the executive is going to need?
-30,b,Who knows that the executive is going to need?
-30,c,Which assistant does everyone know that the executive is going to need?
-30,d,Which assistant knows that the executive is going to need?
-30,e,Who does everyone know that the executive is going to need someone?
-30,f,Who knows that the executive is going to need someone?
-30,g,Which assistant does everyone know that the executive is going to need someone?
-30,h,Which assistant knows that the executive is going to need someone?
-31,a,Who was Tom worried that the patient couldn’t recognize?
-31,b,Who was worried that the patient couldn’t recognize?
-31,c,Which relatives was Tom worried that the patient couldn’t recognize?
-31,d,Which relatives were worried that the patient couldn’t recognize?
-31,e,Who was Tom worried that the patient couldn’t recognize anyone?
-31,f,Who was worried that the patient couldn’t recognize anyone?
-31,g,Which relatives was Tom worried that the patient couldn’t recognize anyone?
-31,h,Which relatives were worried that the patient couldn’t recognize anyone?
-32,a,Who did everyone predict that the new principal was going to terrify?
-32,b,Who predicted that the new principal was going to terrify?
-32,c,Which counselor did everyone predict that the new principal was going to terrify?
-32,d,Which counselor predicted that the new principal was going to terrify?
-32,e,Who did everyone predict that the new principal was going to terrify someone?
-32,f,Who predicted that the new principal was going to terrify someone?
-32,g,Which counselor did everyone predict that the new principal was going to terrify someone?
-32,h,Which counselor predicted that the new principal was going to terrify someone?
-33,a,Who do you think that the new professor isn't going to persuade?
-33,b,Who thinks that the new professor isn't going to persuade?
-33,c,Which donor do you think that the new professor isn't going to persuade?
-33,d,Which donor thinks that the new professor isn't going to persuade?
-33,e,Who do you think that the new professor isn't going to persuade anyone?
-33,f,Who thinks that the new professor isn't going to persuade anyone?
-33,g,Which donor do you think that the new professor isn't going to persuade anyone?
-33,h,Which donor thinks that the new professor isn't going to persuade anyone?
-34,a,Who do you suppose that the new boss won't include?
-34,b,Who supposes that the new boss won't include?
-34,c,Which worker do you suppose that the new boss won't include?
-34,d,Which worker supposes that the new boss won't include?
-34,e,Who do you suppose that the new boss won't include anyone?
-34,f,Who supposes that the new boss won't include anyone?
-34,g,Which worker do you suppose that the new boss won't include anyone?
-34,h,Which worker supposes that the new boss won't include anyone?
-35,a,Who do you feel that the article will bother?
-35,b,Who feels that the article will bother?
-35,c,Which politician do you feel that the article will bother?
-35,d,Which politician feels that the article will bother?
-35,e,Who do you feel that the article will bother someone?
-35,f,Who feels that the article will bother someone?
-35,g,Which politician do you feel that the article will bother someone?
-35,h,Which politician feels that the article will bother someone?
-36,a,Who do you assume that the controversial politician would praise?
-36,b,Who assumes that the controversial politican would praise?
-36,c,Which author do you assume that the controversial politician would praise?
-36,d,Which author assumes that the controversial politican would praise?
-36,e,Who do you assume that the controversial politician would praise anyone?
-36,f,Who assumes that the controversial politician would praise anyone?
-36,g,Which author do you assume that the controversial politician would praise anyone?
-36,h,Which author assumes that the controversial politican would praise anyone?
-37,a,Who do you allege that the secretive publisher has protected?
-37,b,Who alleges that the secretive publisher has protected?
-37,c,Which senator do you allege that the secretive publisher has protected?
-37,d,Which senator alleges that the secretive publisher has protected?
-37,e,Who do you allege that the secretive publisher has protected someone?
-37,f,Who alleges that the secretive publisher has protected someone?
-37,g,Which senator do you allege that the secretive publisher has protected someone?
-37,h,Which senator alleges that the secretive publisher has protected someone?
-38,a,Who do you argue that the social secretary should invite?
-38,b,Who argues that the social secretary should invite?
-38,c,Which celebrity do you argue that the social secretary should invite?
-38,d,Which celebrity argues that the social secretary should invite?
-38,e,Who do you argue that the social secretary should invite someone?
-38,f,Who argues that the social secretary should invite someone?
-38,g,Which celebrity do you argue that the social secretary should invite someone?
-38,h,Which celebrity argues that the social secretary should invite someone?
-39,a,Who are you sure that the talented kid could imitate?
-39,b,Who is sure that the talented kid could imitate?
-39,c,Which teacher are you sure that the talented kid could imitate?
-39,d,Which teacher is sure that the talented kid could imitate?
-39,e,Who are you sure  that the talented kid could imitate anyone?
-39,f,Who is sure that the talented kid could imitate anyone?
-39,g,Which teacher are you sure that the talented kid could imitate anyone?
-39,h,Which teacher is sure that the talented kid could imitate anyone?
-40,a,Who are you certain that the rookie agent can't guard?
-40,b,Who is certain that the rookie agent can't guard?
-40,c,Which witness are you certain that the rookie agent can't guard?
-40,d,Which witness is certain that the rookie agent can't guard?
-40,e,Who are you certain that the rookie agent can't guard anyone?
-40,f,Who is certain that the rookie agent can't guard anyone?
-40,g,Which witnes are you certain that the rookie agent can't guard anyone?
-40,h,Which witness is certain that the rookie agent can't guard anyone?
-41,a,Who do you think that the overworked manager should employ?
-41,b,Who thinks that the overworked manager should employ?
-41,c,Which consultant do you think that the overworked manager should employ?
-41,d,Which consultant thinks that the overworked manager should employ?
-41,e,Who do you think that the overworked manager should employ someone?
-41,f,Who thinks that the overworked manager should employ someone?
-41,g,Which consultant do you think that the overworked manager should employ someone?
-41,h,Which consultant thinks that the overworked manager should employ someone?
-42,a,Who do you assume that the crooked CEO could persuade?
-42,b,Who assumes that the crooked CEO could persuade?
-42,c,Which shareholder do you assume that the crooked CEO could persuade?
-42,d,Which shareholder assumes that the crooked CEO could persuade?
-42,e,Who do you assume that the crooked CEO could persuade anyone?
-42,f,Who assumes that the crooked CEO could persuade anyone?
-42,g,Which shareholder do you assume that the crooked CEO could persuade anyone? 
-42,h,Which shareholder assumes that the crooked CEO could persuade anyone?
-43,a,Who don't you believe that the parrot could imitate?
-43,b,Who doesn't believe that the parrot could imitate?
-43,c,Which diva don't you believe that the parrot could imitate?
-43,d,Which diva doesn't believe that the parrot could imitate?
-43,e,Who don't you believe that the parrot could imitate anyone?
-43,f,Who doesn't believe that the parrot could imitate anyone?
-43,g,Which diva don't you believe that the parrot could imitate anyone?
-43,h,Which diva doesn't believe that the parrot could imitate anyone?
-44,a,Who do you predict that the rumor will bother?
-44,b,Who predicts that the rumor will bother?
-44,c,Which actor do you predict that the rumor will bother?
-44,d,Which actor predicts that the rumor will bother?
-44,e,Who do you predict that the rumor will bother someone?
-44,f,Who predicts that the rumor will bother someone?
-44,g,Which actor do you predict that the rumor will bother someone?
-44,h,Which actor predicts that the rumor will bother someone?
-45,a,Who did you say that the unpredictable dictator has praised?
-45,b,Who says that the unpredictable dictator has praise?
-45,c,Which philosopher did you say that the unpredictable dictator has praised?
-45,d,Which philosopher said that the unpredictable dictator has praised?
-45,e,Who did you say that the unpredictable dictator has praised someone?
-45,f,Who said that the unpredictable dictator has praised someone?
-45,g,Which philosopher did you say that the unpredictable dictator has praised someone?
-45,h,Which philosopher said that the unpredictable dictator has praised someone?
-46,a,Who were you surprised that the conference organizers couldn't invite?
-46,b,Who was surprised that the conference organizers couldn't invite?
-46,c,Which speaker were you surprised that the conference organizers couldn't invite?
-46,d,Which speaker was surprised that the conference organizers couldn't invite?
-46,e,Who were you surprised that the conference organizers couldn't invite anyone?
-46,f,Who was surprised that the conference organizers couldn't invite anyone?
-46,g,Which speaker were you surprised that the conference organizers couldn't invite anyone?
-46,h,Which speaker was surprised that the conference organizers couldn't invite anyone?
-47,a,Who do you think the accountant should employ?
-47,b,Who thinks that the accountant should employ?
-47,c,Which lawyer do you think the accountant should employ?
-47,d,Which lawyer thinks the accountant should employ?
-47,e,Who do you think the accountant should employ someone?
-47,f,Who thinks that the accountant should employ someone?
-47,g,Which lawyer do you think the accountant should employ someone?
-47,h,Which lawyer thinks the accountant should employ someone?
-48,a,Who were you sure that the coach would include?
-48,b,Who was sure that the coach would include?
-48,c,Which player are you sure that the coach would include?
-48,d,Which player is sure that the coach would include?
-48,e,Who are you sure that the coach would include anyone?
-48,f,Who is sure that the coach would include anyone?
-48,g,Which player are you sure that the coach would include anyone?
-48,h,Which player is sure that the coach would include anyone?
-49,a,Who does everyone suppose that the new plan won't excite?
-49,b,Who supposes that the new plan won't excite?
-49,c,Which voters does everyone suppose that the new plan won't excite?
-49,d,Which voters suppose that the new plan won’t excite?
-49,e,Who does everyone suppose that the new plan won't excite anyone?
-49,f,Who supposes that the new plan won't excite anyone?
-49,g,Which voters does everyone suppose that the new plan won't excite anyone?
-49,h,Which voters suppose that the new plan won't excite anyone?
-50,a,Who is Mary convinced that the authorities should arrest?
-50,b,Who is convinced that the authorities should arrest?
-50,c,Which aide is Mary convinced that the authorities should arrest?
-50,d,Which aide is convinced that the the investigators should arrest?
-50,e,Who is Mary convinced that the authorities should arrest someone?
-50,f,Who is convinced that the authorities should arrest someone?
-50,g,Which aide is Mary convinced that the authorities should arrest someone?
-50,h,Which aide is convinced that the authorities should arrest someone?
-51,a,Who does everyone assume that the board of directors will appoint?
-51,b,Who assumes that the board of directors will appoint?
-51,c,Which executive does everyone assume that the board of directors will appoint?
-51,d,Which executive assumes that the board of directors will appoint?
-51,e,Who does everyone assume that the board of directors will appoint someone?
-51,f,Who assumes that the board of directors will appoint someone?
-51,g,Which executive does everyone assume that the board of directors will appoint someone?
-51,h,Which executive assumes that the board of directors will appoint someone?
-52,a,Who is everyone sure that the witness will recognize?
-52,b,Who is sure that the witness will recognize?
-52,c,Which accomplice is everyone sure that the bystander will recognize?
-52,d,Which accomplice is sure that the witness will recognize?
-52,e,Who is everyone sure that the witness will recognize someone?
-52,f,Who is sure that the witness will recognize someone?
-52,g,Which accomplice is everyone sure that the bystander will recognize someone?
-52,h,Which accomplice is sure that the witness will recognize someone?
-53,a,Who will John be delighted that the columnist protected?
-53,b,Who will be delighted that the columnist protected?
-53,c,Which critic will John be delighted that the columnist protected?
-53,d,Which critic will be delighted that the columnist protected?
-53,e,Who will John be delighted that the columnist protected someone?
-53,f,Who will be delighted that the columnist protected someone?
-53,g,Which critic will John be delighted that the columnist protected someone?
-53,h,Which critic will be delighted that the columnist protected someone?
-54,a,Who did Jen suggest that the nurse should comfort?
-54,b,Who suggested that the nurse should comfort?
-54,c,Which patient did Jen suggest that the nurse should comfort?
-54,d,Which patient suggested that the nurse should comfort?
-54,e,Who did Jen suggest that the nurse should comfort someone?
-54,f,Who suggested that the nurse should comfort someone?
-54,g,Which patient did Jen suggest that the nurse should comfort someone?
-54,h,Which patient suggested that the nurse should comfort someone?
-55,a,Who was Mark aware that the contractor wouldn't need?
-55,b,Who was aware that the contractor wouldn't need?
-55,c,Which carpenter was Mark aware that the contractor wouldn't need?
-55,d,Which carpenter was aware that the contractor wouldn't need?
-55,e,Who was Mark aware that the contractor wouldn't need anyone?
-55,f,Who was aware that the contractor wouldn't need anyone?
-55,g,Which carpenter was Mark aware that the contractor wouldn't need anyone?
-55,h,Which carpenter was aware that the contractor wouldn't need anyone?
-56,a,Who did everyone feel that the new teacher might terrify?
-56,b,Who felt that the new teacher might terrify?
-56,c,Which students did everyone feel that the new teacher might terrify?
-56,d,Which students felt that the new teacher might terrify?
-56,e,Who did everyone feel that the new teacher might terrify someone?
-56,f,Who felt that the new teacher might terrify someone?
-56,g,Which students did everyone feel that the new teacher might terrify someone?
-56,h,Which students felt that the new teacher might terrify someone?
-57,a,Who does Nora suspect that the judge must appoint?
-57,b,Who suspects that the judge must appoint?
-57,c,Which guardian does Nora suspect that the judge must appoint?
-57,d,Which guardian suspects that the judge must appoint?
-57,e,Who does Nora suspect that the judge must appoint someone?
-57,f,Who suspects that the judge must appoint someone?
-57,g,Which guardian does Nora suspect that the judge must appoint someone?
-57,h,Which guardian suspects that the judge must appoint someone?
-58,a,Who is everyone surprised that the FBI didn’t arrest?
-58,b,Who is surprised that the FBI didn’t arrest?
-58,c,Which stockbroker is everyone surprised that the FBI didn’t arrest?
-58,d,Which stockbroker is surprised that the FBI didn’t arrest?
-58,e,Who is everyone surprised that the FBI didn’t arrest anyone?
-58,f,Who is surprised that the FBI didn’t arrest anyone?
-58,g,Which stockbroker is everyone surprised that the FBI didn’t arrest anyone?
-58,h,Which stockbroker is surprised that the FBI didn’t arrest anyone?
-59,a,Who isn’t Pete convinced that the therapist can comfort?
-59,b,Who isn’t convinced that the therapist can comfort?
-59,c,Which survivor isn’t Pete convinced that the therapist can comfort?
-59,d,Which survivor isn’t convinced that the therapist can comfort?
-59,e,Who isn’t Pete convinced that the therapist can comfort anyone?
-59,f,Who isn’t convinced that the therapist can comfort anyone?
-59,g,Which survivor isn’t Pete convinced that the therapist can comfort anyone?
-59,h,Which survivor isn’t convinced that the therapist can comfort anyone?
-60,a,Who is nobody certain that the politician can excite?
-60,b,Who isn’t certain that the politician can excite?
-60,c,Which partisans is nobody certain that the politician can excite?
-60,d,Which partisans aren’t certain that the politician can excite?
-60,e,Who is nobody certain that the politician can excite anyone?
-60,f,Who isn’t certain that the politician can excite anyone?
-60,g,Which partisans is nobody certain that the politician can excite anyone?
-60,h,Which partisans aren’t certain that the politician can excite anyone?
-61,a,Who is Selena adamant that the captain should guard?
-61,b,Who is adamant that the captain should guard?
-61,c,Which diplomat is Selena adamant that the captain should guard?
-61,d,Which diplomat is adamant that the captain should guard?
-61,e,Who is Selena adamant that the captain should guard someone?
-61,f,Who is adamant that the captain should guard someone?
-61,g,Which diplomat is Selena adamant that the captain should guard someone?
-61,h,Which diplomat is adamant that the captain should guard someone?
-62,a,Who does everyone know that the executive is going to need?
-62,b,Who knows that the executive is going to need?
-62,c,Which assistant does everyone know that the executive is going to need?
-62,d,Which assistant knows that the executive is going to need?
-62,e,Who does everyone know that the executive is going to need someone?
-62,f,Who knows that the executive is going to need someone?
-62,g,Which assistant does everyone know that the executive is going to need someone?
-62,h,Which assistant knows that the executive is going to need someone?
-63,a,Who was Tom worried that the patient couldn’t recognize?
-63,b,Who was worried that the patient couldn’t recognize?
-63,c,Which relatives was Tom worried that the patient couldn’t recognize?
-63,d,Which relatives were worried that the patient couldn’t recognize?
-63,e,Who was Tom worried that the patient couldn’t recognize anyone?
-63,f,Who was worried that the patient couldn’t recognize anyone?
-63,g,Which relatives was Tom worried that the patient couldn’t recognize anyone?
-63,h,Which relatives were worried that the patient couldn’t recognize anyone?
-64,a,Who did everyone predict that the new principal was going to terrify?
-64,b,Who predicted that the new principal was going to terrify?
-64,c,Which counselor did everyone predict that the new principal was going to terrify?
-64,d,Which counselor predicted that the new principal was going to terrify?
-64,e,Who did everyone predict that the new principal was going to terrify someone?
-64,f,Who predicted that the new principal was going to terrify someone?
-64,g,Which counselor did everyone predict that the new principal was going to terrify someone?
-64,h,Which counselor predicted that the new principal was going to terrify someone?
-65,s,Who did you hear the claim that the politican would visit?
-65,t,Which dissident did you hear the claim that the politician would visit?
-65,u,Who heard the claim that the politician would visit?
-65,v,Which dissident heard the claim that the politician would visit?
-66,s,Who do you wonder who will worship?
-66,t,Which shaman do you wonder who will worship?
-66,u,Who wonders who will worship?
-66,v,Which shaman wonders who will worship?
-67,s,Who do you approve of the plan that the administrator should mentor someone?
-67,t,Which employee do you approve of the plan that the administrator should mentor someone?
-67,u,Who approves of the plan that the administrator will mentor someone?
-67,v,Which employee approves of the plan that the administrator will mentor someone?
-68,s,Who do you wonder who will coach someone?
-68,t,Which rookie do you wonder who will coach someone?
-68,u,Who wonders who will coach someone?
-68,v,Which rookies wonders who will coach someone?
-69,s,Who should everyone accept the fact that the legislature won’t govern? 
-69,t,Which residents should everyone accept the fact that the legislature won't govern?
-69,u,Who accepts the fact that the legislature won’t govern?
-69,v,Which residents accept the fact that the legislature won't govern?
-70,s,Who does everyone know whether we ought to investigate?
-70,t,Which stockbrokers does everyone know whether we ought to investigate?
-70,u,Who does everyone know whether we ought to investigate?
-70,v,Which stockbrokers does everyone know whether we ought to investigate?
-71,s,Who did everyone believe the rumor that the agents arrested someone?
-71,t,Which journalist did everyone believe the rumor that the agents arrested someone?
-71,u,Who believed the rumor that the agents arrested someone?
-71,v,Which journalist believed the rumor that the agents arrested someone?
-72,s,Who does everyone know whether the governor wouldn’t appoint anyone?
-72,t,Which judge does everyone know whether the governor wouldn’t appoint anyone?
-72,u,Who knows whether the governor wouldn’t appoint anyone?
-72,v,Which judge knows whether the governor wouldn’t appoint anyone?
-73,s,Who does Laura remember the proposal that the minister should advise?
-73,t,Which parishioner does Laura remember the proposal that the minister should advise?
-73,u,Who remembers the proposal that the minister should advise?
-73,v,Which parishioner remembers the proposal that the minister should advise?
-74,s,Who does Ned ask himself who is watching?
-74,t,Which child does Ned ask himself who is watching?
-74,u,Who asks himself who is watching?
-74,v,Which child asks himself who is watching?
-75,s,Who did Otto receive the news that the senator wasn’t mourning anyone?
-75,t,Which journalist did Otto receive the news that the senator wasn’t mourning anyone?
-75,u,Who received the news that the senator wasn’t mourning anyone?
-75,v,Which journalist received the news that the senator wasn’t mourning anyone?
-76,s,Who did Pam ponder who should visit someone? 
-76,t,Which elder did Pam ponder who should visit someone?
-76,u,Who pondered who should visit someone?
-76,v,Which elder pondered who should visit someone?
-77,z,Who heard the claim about that would shock everyone?
-78,z,Who did Quentin make a remark about that would be disqualifying?
-79,z,Which gamer wrote an essay for that would be incriminating?
-80,z,Which artist did Reba design a sculpture for that would inspire everyone?
-81,z,Who wondered aloud to whether the weather would be pleasant?
-82,z,Who did you ask if they could recommend someone?
-83,z,Which prankster didn’t seem to that the joke would amuse anyone?
-84,z,Which clerk did it seem to you that the manager should promote?
-85,z,Who loves the news about that excited everyone?
-86,z,Who did everyone send a message to that went viral?
-87,z,Which designer offered a job to that would challenge?
-88,z,Which celebrity does everyone have an opinion about that might offend someone?
-89,z,Who inquired of whether the homework was due?
-90,z,Who did Susan ask whether the students knew anything?
-91,z,Which singer confided in that her music wasn't for everyone?
-92,z,Which friend did Tito assure that he was healthy?
-93,z,Who believes in the claim that exercising with can improve?
-94,z,Who did you discover for a fact played the ukelele for someone?
-95,z,Which player was unsure about during the contract negotiation?
-96,z,Which comedian did you know without a doubt would make make an appearance?
+Itm,Cnd-underlying,Sentence,Block,Cnd
+1,a,Who do you think that the new professor isn't going to persuade?,A,Aa
+1,b,Who thinks that the new professor isn't going to persuade?,A,Ab
+1,c,Which donor do you think that the new professor isn't going to persuade?,A,Ac
+1,d,Which donor thinks that the new professor isn't going to persuade?,A,Ad
+1,e,Who do you think that the new professor isn't going to persuade anyone?,A,Ae
+1,f,Who thinks that the new professor isn't going to persuade anyone?,A,Af
+1,g,Which donor do you think that the new professor isn't going to persuade anyone?,A,Ag
+1,h,Which donor thinks that the new professor isn't going to persuade anyone?,A,Ah
+2,a,Who do you suppose that the new boss won't include?,A,Aa
+2,b,Who supposes that the new boss won't include?,A,Ab
+2,c,Which worker do you suppose that the new boss won't include?,A,Ac
+2,d,Which worker supposes that the new boss won't include?,A,Ad
+2,e,Who do you suppose that the new boss won't include anyone?,A,Ae
+2,f,Who supposes that the new boss won't include anyone?,A,Af
+2,g,Which worker do you suppose that the new boss won't include anyone?,A,Ag
+2,h,Which worker supposes that the new boss won't include anyone?,A,Ah
+3,a,Who do you feel that the article will bother?,A,Aa
+3,b,Who feels that the article will bother?,A,Ab
+3,c,Which politician do you feel that the article will bother?,A,Ac
+3,d,Which politician feels that the article will bother?,A,Ad
+3,e,Who do you feel that the article will bother someone?,A,Ae
+3,f,Who feels that the article will bother someone?,A,Af
+3,g,Which politician do you feel that the article will bother someone?,A,Ag
+3,h,Which politician feels that the article will bother someone?,A,Ah
+4,a,Who do you assume that the controversial politician would praise?,A,Aa
+4,b,Who assumes that the controversial politican would praise?,A,Ab
+4,c,Which author do you assume that the controversial politician would praise?,A,Ac
+4,d,Which author assumes that the controversial politican would praise?,A,Ad
+4,e,Who do you assume that the controversial politician would praise anyone?,A,Ae
+4,f,Who assumes that the controversial politician would praise anyone?,A,Af
+4,g,Which author do you assume that the controversial politician would praise anyone?,A,Ag
+4,h,Which author assumes that the controversial politican would praise anyone?,A,Ah
+5,a,Who do you allege that the secretive publisher has protected?,A,Aa
+5,b,Who alleges that the secretive publisher has protected?,A,Ab
+5,c,Which senator do you allege that the secretive publisher has protected?,A,Ac
+5,d,Which senator alleges that the secretive publisher has protected?,A,Ad
+5,e,Who do you allege that the secretive publisher has protected someone?,A,Ae
+5,f,Who alleges that the secretive publisher has protected someone?,A,Af
+5,g,Which senator do you allege that the secretive publisher has protected someone?,A,Ag
+5,h,Which senator alleges that the secretive publisher has protected someone?,A,Ah
+6,a,Who do you argue that the social secretary should invite?,A,Aa
+6,b,Who argues that the social secretary should invite?,A,Ab
+6,c,Which celebrity do you argue that the social secretary should invite?,A,Ac
+6,d,Which celebrity argues that the social secretary should invite?,A,Ad
+6,e,Who do you argue that the social secretary should invite someone?,A,Ae
+6,f,Who argues that the social secretary should invite someone?,A,Af
+6,g,Which celebrity do you argue that the social secretary should invite someone?,A,Ag
+6,h,Which celebrity argues that the social secretary should invite someone?,A,Ah
+7,a,Who are you sure that the talented kid could imitate?,A,Aa
+7,b,Who is sure that the talented kid could imitate?,A,Ab
+7,c,Which teacher are you sure that the talented kid could imitate?,A,Ac
+7,d,Which teacher is sure that the talented kid could imitate?,A,Ad
+7,e,Who are you sure  that the talented kid could imitate anyone?,A,Ae
+7,f,Who is sure that the talented kid could imitate anyone?,A,Af
+7,g,Which teacher are you sure that the talented kid could imitate anyone?,A,Ag
+7,h,Which teacher is sure that the talented kid could imitate anyone?,A,Ah
+8,a,Who are you certain that the rookie agent can't guard?,A,Aa
+8,b,Who is certain that the rookie agent can't guard?,A,Ab
+8,c,Which witness are you certain that the rookie agent can't guard?,A,Ac
+8,d,Which witness is certain that the rookie agent can't guard?,A,Ad
+8,e,Who are you certain that the rookie agent can't guard anyone?,A,Ae
+8,f,Who is certain that the rookie agent can't guard anyone?,A,Af
+8,g,Which witnes are you certain that the rookie agent can't guard anyone?,A,Ag
+8,h,Which witness is certain that the rookie agent can't guard anyone?,A,Ah
+9,a,Who do you think that the overworked manager should employ?,A,Aa
+9,b,Who thinks that the overworked manager should employ?,A,Ab
+9,c,Which consultant do you think that the overworked manager should employ?,A,Ac
+9,d,Which consultant thinks that the overworked manager should employ?,A,Ad
+9,e,Who do you think that the overworked manager should employ someone?,A,Ae
+9,f,Who thinks that the overworked manager should employ someone?,A,Af
+9,g,Which consultant do you think that the overworked manager should employ someone?,A,Ag
+9,h,Which consultant thinks that the overworked manager should employ someone?,A,Ah
+10,a,Who do you assume that the crooked CEO could persuade?,A,Aa
+10,b,Who assumes that the crooked CEO could persuade?,A,Ab
+10,c,Which shareholder do you assume that the crooked CEO could persuade?,A,Ac
+10,d,Which shareholder assumes that the crooked CEO could persuade?,A,Ad
+10,e,Who do you assume that the crooked CEO could persuade anyone?,A,Ae
+10,f,Who assumes that the crooked CEO could persuade anyone?,A,Af
+10,g,Which shareholder do you assume that the crooked CEO could persuade anyone? ,A,Ag
+10,h,Which shareholder assumes that the crooked CEO could persuade anyone?,A,Ah
+11,a,Who don't you believe that the parrot could imitate?,A,Aa
+11,b,Who doesn't believe that the parrot could imitate?,A,Ab
+11,c,Which diva don't you believe that the parrot could imitate?,A,Ac
+11,d,Which diva doesn't believe that the parrot could imitate?,A,Ad
+11,e,Who don't you believe that the parrot could imitate anyone?,A,Ae
+11,f,Who doesn't believe that the parrot could imitate anyone?,A,Af
+11,g,Which diva don't you believe that the parrot could imitate anyone?,A,Ag
+11,h,Which diva doesn't believe that the parrot could imitate anyone?,A,Ah
+12,a,Who do you predict that the rumor will bother?,A,Aa
+12,b,Who predicts that the rumor will bother?,A,Ab
+12,c,Which actor do you predict that the rumor will bother?,A,Ac
+12,d,Which actor predicts that the rumor will bother?,A,Ad
+12,e,Who do you predict that the rumor will bother someone?,A,Ae
+12,f,Who predicts that the rumor will bother someone?,A,Af
+12,g,Which actor do you predict that the rumor will bother someone?,A,Ag
+12,h,Which actor predicts that the rumor will bother someone?,A,Ah
+13,a,Who did you say that the unpredictable dictator has praised?,A,Aa
+13,b,Who says that the unpredictable dictator has praise?,A,Ab
+13,c,Which philosopher did you say that the unpredictable dictator has praised?,A,Ac
+13,d,Which philosopher said that the unpredictable dictator has praised?,A,Ad
+13,e,Who did you say that the unpredictable dictator has praised someone?,A,Ae
+13,f,Who said that the unpredictable dictator has praised someone?,A,Af
+13,g,Which philosopher did you say that the unpredictable dictator has praised someone?,A,Ag
+13,h,Which philosopher said that the unpredictable dictator has praised someone?,A,Ah
+14,a,Who were you surprised that the conference organizers couldn't invite?,A,Aa
+14,b,Who was surprised that the conference organizers couldn't invite?,A,Ab
+14,c,Which speaker were you surprised that the conference organizers couldn't invite?,A,Ac
+14,d,Which speaker was surprised that the conference organizers couldn't invite?,A,Ad
+14,e,Who were you surprised that the conference organizers couldn't invite anyone?,A,Ae
+14,f,Who was surprised that the conference organizers couldn't invite anyone?,A,Af
+14,g,Which speaker were you surprised that the conference organizers couldn't invite anyone?,A,Ag
+14,h,Which speaker was surprised that the conference organizers couldn't invite anyone?,A,Ah
+15,a,Who do you think the accountant should employ?,A,Aa
+15,b,Who thinks that the accountant should employ?,A,Ab
+15,c,Which lawyer do you think the accountant should employ?,A,Ac
+15,d,Which lawyer thinks the accountant should employ?,A,Ad
+15,e,Who do you think the accountant should employ someone?,A,Ae
+15,f,Who thinks that the accountant should employ someone?,A,Af
+15,g,Which lawyer do you think the accountant should employ someone?,A,Ag
+15,h,Which lawyer thinks the accountant should employ someone?,A,Ah
+16,a,Who were you sure that the coach would include?,A,Aa
+16,b,Who was sure that the coach would include?,A,Ab
+16,c,Which player are you sure that the coach would include?,A,Ac
+16,d,Which player is sure that the coach would include?,A,Ad
+16,e,Who are you sure that the coach would include anyone?,A,Ae
+16,f,Who is sure that the coach would include anyone?,A,Af
+16,g,Which player are you sure that the coach would include anyone?,A,Ag
+16,h,Which player is sure that the coach would include anyone?,A,Ah
+17,a,Who does everyone suppose that the new plan won't excite?,A,Aa
+17,b,Who supposes that the new plan won't excite?,A,Ab
+17,c,Which voters does everyone suppose that the new plan won't excite?,A,Ac
+17,d,Which voters suppose that the new plan won’t excite?,A,Ad
+17,e,Who does everyone suppose that the new plan won't excite anyone?,A,Ae
+17,f,Who supposes that the new plan won't excite anyone?,A,Af
+17,g,Which voters does everyone suppose that the new plan won't excite anyone?,A,Ag
+17,h,Which voters suppose that the new plan won't excite anyone?,A,Ah
+18,a,Who is Mary convinced that the authorities should arrest?,A,Aa
+18,b,Who is convinced that the authorities should arrest?,A,Ab
+18,c,Which aide is Mary convinced that the authorities should arrest?,A,Ac
+18,d,Which aide is convinced that the the investigators should arrest?,A,Ad
+18,e,Who is Mary convinced that the authorities should arrest someone?,A,Ae
+18,f,Who is convinced that the authorities should arrest someone?,A,Af
+18,g,Which aide is Mary convinced that the authorities should arrest someone?,A,Ag
+18,h,Which aide is convinced that the authorities should arrest someone?,A,Ah
+19,a,Who does everyone assume that the board of directors will appoint?,A,Aa
+19,b,Who assumes that the board of directors will appoint?,A,Ab
+19,c,Which executive does everyone assume that the board of directors will appoint?,A,Ac
+19,d,Which executive assumes that the board of directors will appoint?,A,Ad
+19,e,Who does everyone assume that the board of directors will appoint someone?,A,Ae
+19,f,Who assumes that the board of directors will appoint someone?,A,Af
+19,g,Which executive does everyone assume that the board of directors will appoint someone?,A,Ag
+19,h,Which executive assumes that the board of directors will appoint someone?,A,Ah
+20,a,Who is everyone sure that the witness will recognize?,A,Aa
+20,b,Who is sure that the witness will recognize?,A,Ab
+20,c,Which accomplice is everyone sure that the bystander will recognize?,A,Ac
+20,d,Which accomplice is sure that the witness will recognize?,A,Ad
+20,e,Who is everyone sure that the witness will recognize someone?,A,Ae
+20,f,Who is sure that the witness will recognize someone?,A,Af
+20,g,Which accomplice is everyone sure that the bystander will recognize someone?,A,Ag
+20,h,Which accomplice is sure that the witness will recognize someone?,A,Ah
+21,a,Who will John be delighted that the columnist protected?,A,Aa
+21,b,Who will be delighted that the columnist protected?,A,Ab
+21,c,Which critic will John be delighted that the columnist protected?,A,Ac
+21,d,Which critic will be delighted that the columnist protected?,A,Ad
+21,e,Who will John be delighted that the columnist protected someone?,A,Ae
+21,f,Who will be delighted that the columnist protected someone?,A,Af
+21,g,Which critic will John be delighted that the columnist protected someone?,A,Ag
+21,h,Which critic will be delighted that the columnist protected someone?,A,Ah
+22,a,Who did Jen suggest that the nurse should comfort?,A,Aa
+22,b,Who suggested that the nurse should comfort?,A,Ab
+22,c,Which patient did Jen suggest that the nurse should comfort?,A,Ac
+22,d,Which patient suggested that the nurse should comfort?,A,Ad
+22,e,Who did Jen suggest that the nurse should comfort someone?,A,Ae
+22,f,Who suggested that the nurse should comfort someone?,A,Af
+22,g,Which patient did Jen suggest that the nurse should comfort someone?,A,Ag
+22,h,Which patient suggested that the nurse should comfort someone?,A,Ah
+23,a,Who was Mark aware that the contractor wouldn't need?,A,Aa
+23,b,Who was aware that the contractor wouldn't need?,A,Ab
+23,c,Which carpenter was Mark aware that the contractor wouldn't need?,A,Ac
+23,d,Which carpenter was aware that the contractor wouldn't need?,A,Ad
+23,e,Who was Mark aware that the contractor wouldn't need anyone?,A,Ae
+23,f,Who was aware that the contractor wouldn't need anyone?,A,Af
+23,g,Which carpenter was Mark aware that the contractor wouldn't need anyone?,A,Ag
+23,h,Which carpenter was aware that the contractor wouldn't need anyone?,A,Ah
+24,a,Who did everyone feel that the new teacher might terrify?,A,Aa
+24,b,Who felt that the new teacher might terrify?,A,Ab
+24,c,Which students did everyone feel that the new teacher might terrify?,A,Ac
+24,d,Which students felt that the new teacher might terrify?,A,Ad
+24,e,Who did everyone feel that the new teacher might terrify someone?,A,Ae
+24,f,Who felt that the new teacher might terrify someone?,A,Af
+24,g,Which students did everyone feel that the new teacher might terrify someone?,A,Ag
+24,h,Which students felt that the new teacher might terrify someone?,A,Ah
+25,a,Who does Nora suspect that the judge must appoint?,A,Aa
+25,b,Who suspects that the judge must appoint?,A,Ab
+25,c,Which guardian does Nora suspect that the judge must appoint?,A,Ac
+25,d,Which guardian suspects that the judge must appoint?,A,Ad
+25,e,Who does Nora suspect that the judge must appoint someone?,A,Ae
+25,f,Who suspects that the judge must appoint someone?,A,Af
+25,g,Which guardian does Nora suspect that the judge must appoint someone?,A,Ag
+25,h,Which guardian suspects that the judge must appoint someone?,A,Ah
+26,a,Who is everyone surprised that the FBI didn’t arrest?,A,Aa
+26,b,Who is surprised that the FBI didn’t arrest?,A,Ab
+26,c,Which stockbroker is everyone surprised that the FBI didn’t arrest?,A,Ac
+26,d,Which stockbroker is surprised that the FBI didn’t arrest?,A,Ad
+26,e,Who is everyone surprised that the FBI didn’t arrest anyone?,A,Ae
+26,f,Who is surprised that the FBI didn’t arrest anyone?,A,Af
+26,g,Which stockbroker is everyone surprised that the FBI didn’t arrest anyone?,A,Ag
+26,h,Which stockbroker is surprised that the FBI didn’t arrest anyone?,A,Ah
+27,a,Who isn’t Pete convinced that the therapist can comfort?,A,Aa
+27,b,Who isn’t convinced that the therapist can comfort?,A,Ab
+27,c,Which survivor isn’t Pete convinced that the therapist can comfort?,A,Ac
+27,d,Which survivor isn’t convinced that the therapist can comfort?,A,Ad
+27,e,Who isn’t Pete convinced that the therapist can comfort anyone?,A,Ae
+27,f,Who isn’t convinced that the therapist can comfort anyone?,A,Af
+27,g,Which survivor isn’t Pete convinced that the therapist can comfort anyone?,A,Ag
+27,h,Which survivor isn’t convinced that the therapist can comfort anyone?,A,Ah
+28,a,Who is nobody certain that the politician can excite?,A,Aa
+28,b,Who isn’t certain that the politician can excite?,A,Ab
+28,c,Which partisans is nobody certain that the politician can excite?,A,Ac
+28,d,Which partisans aren’t certain that the politician can excite?,A,Ad
+28,e,Who is nobody certain that the politician can excite anyone?,A,Ae
+28,f,Who isn’t certain that the politician can excite anyone?,A,Af
+28,g,Which partisans is nobody certain that the politician can excite anyone?,A,Ag
+28,h,Which partisans aren’t certain that the politician can excite anyone?,A,Ah
+29,a,Who is Selena adamant that the captain should guard?,A,Aa
+29,b,Who is adamant that the captain should guard?,A,Ab
+29,c,Which diplomat is Selena adamant that the captain should guard?,A,Ac
+29,d,Which diplomat is adamant that the captain should guard?,A,Ad
+29,e,Who is Selena adamant that the captain should guard someone?,A,Ae
+29,f,Who is adamant that the captain should guard someone?,A,Af
+29,g,Which diplomat is Selena adamant that the captain should guard someone?,A,Ag
+29,h,Which diplomat is adamant that the captain should guard someone?,A,Ah
+30,a,Who does everyone know that the executive is going to need?,A,Aa
+30,b,Who knows that the executive is going to need?,A,Ab
+30,c,Which assistant does everyone know that the executive is going to need?,A,Ac
+30,d,Which assistant knows that the executive is going to need?,A,Ad
+30,e,Who does everyone know that the executive is going to need someone?,A,Ae
+30,f,Who knows that the executive is going to need someone?,A,Af
+30,g,Which assistant does everyone know that the executive is going to need someone?,A,Ag
+30,h,Which assistant knows that the executive is going to need someone?,A,Ah
+31,a,Who was Tom worried that the patient couldn’t recognize?,A,Aa
+31,b,Who was worried that the patient couldn’t recognize?,A,Ab
+31,c,Which relatives was Tom worried that the patient couldn’t recognize?,A,Ac
+31,d,Which relatives were worried that the patient couldn’t recognize?,A,Ad
+31,e,Who was Tom worried that the patient couldn’t recognize anyone?,A,Ae
+31,f,Who was worried that the patient couldn’t recognize anyone?,A,Af
+31,g,Which relatives was Tom worried that the patient couldn’t recognize anyone?,A,Ag
+31,h,Which relatives were worried that the patient couldn’t recognize anyone?,A,Ah
+32,a,Who did everyone predict that the new principal was going to terrify?,A,Aa
+32,b,Who predicted that the new principal was going to terrify?,A,Ab
+32,c,Which counselor did everyone predict that the new principal was going to terrify?,A,Ac
+32,d,Which counselor predicted that the new principal was going to terrify?,A,Ad
+32,e,Who did everyone predict that the new principal was going to terrify someone?,A,Ae
+32,f,Who predicted that the new principal was going to terrify someone?,A,Af
+32,g,Which counselor did everyone predict that the new principal was going to terrify someone?,A,Ag
+32,h,Which counselor predicted that the new principal was going to terrify someone?,A,Ah
+33,a,Who did everyone predict that the new principal was going to terrify?,B,Ba
+33,b,Who predicted that the new principal was going to terrify?,B,Bb
+33,c,Which counselor did everyone predict that the new principal was going to terrify?,B,Bc
+33,d,Which counselor predicted that the new principal was going to terrify?,B,Bd
+33,e,Who did everyone predict that the new principal was going to terrify someone?,B,Be
+33,f,Who predicted that the new principal was going to terrify someone?,B,Bf
+33,g,Which counselor did everyone predict that the new principal was going to terrify someone?,B,Bg
+33,h,Which counselor predicted that the new principal was going to terrify someone?,B,Bh
+34,a,Who was Tom worried that the patient couldn’t recognize?,B,Ba
+34,b,Who was worried that the patient couldn’t recognize?,B,Bb
+34,c,Which relatives was Tom worried that the patient couldn’t recognize?,B,Bc
+34,d,Which relatives were worried that the patient couldn’t recognize?,B,Bd
+34,e,Who was Tom worried that the patient couldn’t recognize anyone?,B,Be
+34,f,Who was worried that the patient couldn’t recognize anyone?,B,Bf
+34,g,Which relatives was Tom worried that the patient couldn’t recognize anyone?,B,Bg
+34,h,Which relatives were worried that the patient couldn’t recognize anyone?,B,Bh
+35,a,Who does everyone know that the executive is going to need?,B,Ba
+35,b,Who knows that the executive is going to need?,B,Bb
+35,c,Which assistant does everyone know that the executive is going to need?,B,Bc
+35,d,Which assistant knows that the executive is going to need?,B,Bd
+35,e,Who does everyone know that the executive is going to need someone?,B,Be
+35,f,Who knows that the executive is going to need someone?,B,Bf
+35,g,Which assistant does everyone know that the executive is going to need someone?,B,Bg
+35,h,Which assistant knows that the executive is going to need someone?,B,Bh
+36,a,Who is Selena adamant that the captain should guard?,B,Ba
+36,b,Who is adamant that the captain should guard?,B,Bb
+36,c,Which diplomat is Selena adamant that the captain should guard?,B,Bc
+36,d,Which diplomat is adamant that the captain should guard?,B,Bd
+36,e,Who is Selena adamant that the captain should guard someone?,B,Be
+36,f,Who is adamant that the captain should guard someone?,B,Bf
+36,g,Which diplomat is Selena adamant that the captain should guard someone?,B,Bg
+36,h,Which diplomat is adamant that the captain should guard someone?,B,Bh
+37,a,Who is nobody certain that the politician can excite?,B,Ba
+37,b,Who isn’t certain that the politician can excite?,B,Bb
+37,c,Which partisans is nobody certain that the politician can excite?,B,Bc
+37,d,Which partisans aren’t certain that the politician can excite?,B,Bd
+37,e,Who is nobody certain that the politician can excite anyone?,B,Be
+37,f,Who isn’t certain that the politician can excite anyone?,B,Bf
+37,g,Which partisans is nobody certain that the politician can excite anyone?,B,Bg
+37,h,Which partisans aren’t certain that the politician can excite anyone?,B,Bh
+38,a,Who isn’t Pete convinced that the therapist can comfort?,B,Ba
+38,b,Who isn’t convinced that the therapist can comfort?,B,Bb
+38,c,Which survivor isn’t Pete convinced that the therapist can comfort?,B,Bc
+38,d,Which survivor isn’t convinced that the therapist can comfort?,B,Bd
+38,e,Who isn’t Pete convinced that the therapist can comfort anyone?,B,Be
+38,f,Who isn’t convinced that the therapist can comfort anyone?,B,Bf
+38,g,Which survivor isn’t Pete convinced that the therapist can comfort anyone?,B,Bg
+38,h,Which survivor isn’t convinced that the therapist can comfort anyone?,B,Bh
+39,a,Who is everyone surprised that the FBI didn’t arrest?,B,Ba
+39,b,Who is surprised that the FBI didn’t arrest?,B,Bb
+39,c,Which stockbroker is everyone surprised that the FBI didn’t arrest?,B,Bc
+39,d,Which stockbroker is surprised that the FBI didn’t arrest?,B,Bd
+39,e,Who is everyone surprised that the FBI didn’t arrest anyone?,B,Be
+39,f,Who is surprised that the FBI didn’t arrest anyone?,B,Bf
+39,g,Which stockbroker is everyone surprised that the FBI didn’t arrest anyone?,B,Bg
+39,h,Which stockbroker is surprised that the FBI didn’t arrest anyone?,B,Bh
+40,a,Who does Nora suspect that the judge must appoint?,B,Ba
+40,b,Who suspects that the judge must appoint?,B,Bb
+40,c,Which guardian does Nora suspect that the judge must appoint?,B,Bc
+40,d,Which guardian suspects that the judge must appoint?,B,Bd
+40,e,Who does Nora suspect that the judge must appoint someone?,B,Be
+40,f,Who suspects that the judge must appoint someone?,B,Bf
+40,g,Which guardian does Nora suspect that the judge must appoint someone?,B,Bg
+40,h,Which guardian suspects that the judge must appoint someone?,B,Bh
+41,a,Who did everyone feel that the new teacher might terrify?,B,Ba
+41,b,Who felt that the new teacher might terrify?,B,Bb
+41,c,Which students did everyone feel that the new teacher might terrify?,B,Bc
+41,d,Which students felt that the new teacher might terrify?,B,Bd
+41,e,Who did everyone feel that the new teacher might terrify someone?,B,Be
+41,f,Who felt that the new teacher might terrify someone?,B,Bf
+41,g,Which students did everyone feel that the new teacher might terrify someone?,B,Bg
+41,h,Which students felt that the new teacher might terrify someone?,B,Bh
+42,a,Who was Mark aware that the contractor wouldn't need?,B,Ba
+42,b,Who was aware that the contractor wouldn't need?,B,Bb
+42,c,Which carpenter was Mark aware that the contractor wouldn't need?,B,Bc
+42,d,Which carpenter was aware that the contractor wouldn't need?,B,Bd
+42,e,Who was Mark aware that the contractor wouldn't need anyone?,B,Be
+42,f,Who was aware that the contractor wouldn't need anyone?,B,Bf
+42,g,Which carpenter was Mark aware that the contractor wouldn't need anyone?,B,Bg
+42,h,Which carpenter was aware that the contractor wouldn't need anyone?,B,Bh
+43,a,Who did Jen suggest that the nurse should comfort?,B,Ba
+43,b,Who suggested that the nurse should comfort?,B,Bb
+43,c,Which patient did Jen suggest that the nurse should comfort?,B,Bc
+43,d,Which patient suggested that the nurse should comfort?,B,Bd
+43,e,Who did Jen suggest that the nurse should comfort someone?,B,Be
+43,f,Who suggested that the nurse should comfort someone?,B,Bf
+43,g,Which patient did Jen suggest that the nurse should comfort someone?,B,Bg
+43,h,Which patient suggested that the nurse should comfort someone?,B,Bh
+44,a,Who will John be delighted that the columnist protected?,B,Ba
+44,b,Who will be delighted that the columnist protected?,B,Bb
+44,c,Which critic will John be delighted that the columnist protected?,B,Bc
+44,d,Which critic will be delighted that the columnist protected?,B,Bd
+44,e,Who will John be delighted that the columnist protected someone?,B,Be
+44,f,Who will be delighted that the columnist protected someone?,B,Bf
+44,g,Which critic will John be delighted that the columnist protected someone?,B,Bg
+44,h,Which critic will be delighted that the columnist protected someone?,B,Bh
+45,a,Who is everyone sure that the witness will recognize?,B,Ba
+45,b,Who is sure that the witness will recognize?,B,Bb
+45,c,Which accomplice is everyone sure that the bystander will recognize?,B,Bc
+45,d,Which accomplice is sure that the witness will recognize?,B,Bd
+45,e,Who is everyone sure that the witness will recognize someone?,B,Be
+45,f,Who is sure that the witness will recognize someone?,B,Bf
+45,g,Which accomplice is everyone sure that the bystander will recognize someone?,B,Bg
+45,h,Which accomplice is sure that the witness will recognize someone?,B,Bh
+46,a,Who does everyone assume that the board of directors will appoint?,B,Ba
+46,b,Who assumes that the board of directors will appoint?,B,Bb
+46,c,Which executive does everyone assume that the board of directors will appoint?,B,Bc
+46,d,Which executive assumes that the board of directors will appoint?,B,Bd
+46,e,Who does everyone assume that the board of directors will appoint someone?,B,Be
+46,f,Who assumes that the board of directors will appoint someone?,B,Bf
+46,g,Which executive does everyone assume that the board of directors will appoint someone?,B,Bg
+46,h,Which executive assumes that the board of directors will appoint someone?,B,Bh
+47,a,Who is Mary convinced that the authorities should arrest?,B,Ba
+47,b,Who is convinced that the authorities should arrest?,B,Bb
+47,c,Which aide is Mary convinced that the authorities should arrest?,B,Bc
+47,d,Which aide is convinced that the the investigators should arrest?,B,Bd
+47,e,Who is Mary convinced that the authorities should arrest someone?,B,Be
+47,f,Who is convinced that the authorities should arrest someone?,B,Bf
+47,g,Which aide is Mary convinced that the authorities should arrest someone?,B,Bg
+47,h,Which aide is convinced that the authorities should arrest someone?,B,Bh
+48,a,Who does everyone suppose that the new plan won't excite?,B,Ba
+48,b,Who supposes that the new plan won't excite?,B,Bb
+48,c,Which voters does everyone suppose that the new plan won't excite?,B,Bc
+48,d,Which voters suppose that the new plan won’t excite?,B,Bd
+48,e,Who does everyone suppose that the new plan won't excite anyone?,B,Be
+48,f,Who supposes that the new plan won't excite anyone?,B,Bf
+48,g,Which voters does everyone suppose that the new plan won't excite anyone?,B,Bg
+48,h,Which voters suppose that the new plan won't excite anyone?,B,Bh
+49,a,Who were you sure that the coach would include?,B,Ba
+49,b,Who was sure that the coach would include?,B,Bb
+49,c,Which player are you sure that the coach would include?,B,Bc
+49,d,Which player is sure that the coach would include?,B,Bd
+49,e,Who are you sure that the coach would include anyone?,B,Be
+49,f,Who is sure that the coach would include anyone?,B,Bf
+49,g,Which player are you sure that the coach would include anyone?,B,Bg
+49,h,Which player is sure that the coach would include anyone?,B,Bh
+50,a,Who do you think the accountant should employ?,B,Ba
+50,b,Who thinks that the accountant should employ?,B,Bb
+50,c,Which lawyer do you think the accountant should employ?,B,Bc
+50,d,Which lawyer thinks the accountant should employ?,B,Bd
+50,e,Who do you think the accountant should employ someone?,B,Be
+50,f,Who thinks that the accountant should employ someone?,B,Bf
+50,g,Which lawyer do you think the accountant should employ someone?,B,Bg
+50,h,Which lawyer thinks the accountant should employ someone?,B,Bh
+51,a,Who were you surprised that the conference organizers couldn't invite?,B,Ba
+51,b,Who was surprised that the conference organizers couldn't invite?,B,Bb
+51,c,Which speaker were you surprised that the conference organizers couldn't invite?,B,Bc
+51,d,Which speaker was surprised that the conference organizers couldn't invite?,B,Bd
+51,e,Who were you surprised that the conference organizers couldn't invite anyone?,B,Be
+51,f,Who was surprised that the conference organizers couldn't invite anyone?,B,Bf
+51,g,Which speaker were you surprised that the conference organizers couldn't invite anyone?,B,Bg
+51,h,Which speaker was surprised that the conference organizers couldn't invite anyone?,B,Bh
+52,a,Who did you say that the unpredictable dictator has praised?,B,Ba
+52,b,Who says that the unpredictable dictator has praise?,B,Bb
+52,c,Which philosopher did you say that the unpredictable dictator has praised?,B,Bc
+52,d,Which philosopher said that the unpredictable dictator has praised?,B,Bd
+52,e,Who did you say that the unpredictable dictator has praised someone?,B,Be
+52,f,Who said that the unpredictable dictator has praised someone?,B,Bf
+52,g,Which philosopher did you say that the unpredictable dictator has praised someone?,B,Bg
+52,h,Which philosopher said that the unpredictable dictator has praised someone?,B,Bh
+53,a,Who do you predict that the rumor will bother?,B,Ba
+53,b,Who predicts that the rumor will bother?,B,Bb
+53,c,Which actor do you predict that the rumor will bother?,B,Bc
+53,d,Which actor predicts that the rumor will bother?,B,Bd
+53,e,Who do you predict that the rumor will bother someone?,B,Be
+53,f,Who predicts that the rumor will bother someone?,B,Bf
+53,g,Which actor do you predict that the rumor will bother someone?,B,Bg
+53,h,Which actor predicts that the rumor will bother someone?,B,Bh
+54,a,Who don't you believe that the parrot could imitate?,B,Ba
+54,b,Who doesn't believe that the parrot could imitate?,B,Bb
+54,c,Which diva don't you believe that the parrot could imitate?,B,Bc
+54,d,Which diva doesn't believe that the parrot could imitate?,B,Bd
+54,e,Who don't you believe that the parrot could imitate anyone?,B,Be
+54,f,Who doesn't believe that the parrot could imitate anyone?,B,Bf
+54,g,Which diva don't you believe that the parrot could imitate anyone?,B,Bg
+54,h,Which diva doesn't believe that the parrot could imitate anyone?,B,Bh
+55,a,Who do you assume that the crooked CEO could persuade?,B,Ba
+55,b,Who assumes that the crooked CEO could persuade?,B,Bb
+55,c,Which shareholder do you assume that the crooked CEO could persuade?,B,Bc
+55,d,Which shareholder assumes that the crooked CEO could persuade?,B,Bd
+55,e,Who do you assume that the crooked CEO could persuade anyone?,B,Be
+55,f,Who assumes that the crooked CEO could persuade anyone?,B,Bf
+55,g,Which shareholder do you assume that the crooked CEO could persuade anyone? ,B,Bg
+55,h,Which shareholder assumes that the crooked CEO could persuade anyone?,B,Bh
+56,a,Who do you think that the overworked manager should employ?,B,Ba
+56,b,Who thinks that the overworked manager should employ?,B,Bb
+56,c,Which consultant do you think that the overworked manager should employ?,B,Bc
+56,d,Which consultant thinks that the overworked manager should employ?,B,Bd
+56,e,Who do you think that the overworked manager should employ someone?,B,Be
+56,f,Who thinks that the overworked manager should employ someone?,B,Bf
+56,g,Which consultant do you think that the overworked manager should employ someone?,B,Bg
+56,h,Which consultant thinks that the overworked manager should employ someone?,B,Bh
+57,a,Who are you certain that the rookie agent can't guard?,B,Ba
+57,b,Who is certain that the rookie agent can't guard?,B,Bb
+57,c,Which witness are you certain that the rookie agent can't guard?,B,Bc
+57,d,Which witness is certain that the rookie agent can't guard?,B,Bd
+57,e,Who are you certain that the rookie agent can't guard anyone?,B,Be
+57,f,Who is certain that the rookie agent can't guard anyone?,B,Bf
+57,g,Which witnes are you certain that the rookie agent can't guard anyone?,B,Bg
+57,h,Which witness is certain that the rookie agent can't guard anyone?,B,Bh
+58,a,Who are you sure that the talented kid could imitate?,B,Ba
+58,b,Who is sure that the talented kid could imitate?,B,Bb
+58,c,Which teacher are you sure that the talented kid could imitate?,B,Bc
+58,d,Which teacher is sure that the talented kid could imitate?,B,Bd
+58,e,Who are you sure  that the talented kid could imitate anyone?,B,Be
+58,f,Who is sure that the talented kid could imitate anyone?,B,Bf
+58,g,Which teacher are you sure that the talented kid could imitate anyone?,B,Bg
+58,h,Which teacher is sure that the talented kid could imitate anyone?,B,Bh
+59,a,Who do you argue that the social secretary should invite?,B,Ba
+59,b,Who argues that the social secretary should invite?,B,Bb
+59,c,Which celebrity do you argue that the social secretary should invite?,B,Bc
+59,d,Which celebrity argues that the social secretary should invite?,B,Bd
+59,e,Who do you argue that the social secretary should invite someone?,B,Be
+59,f,Who argues that the social secretary should invite someone?,B,Bf
+59,g,Which celebrity do you argue that the social secretary should invite someone?,B,Bg
+59,h,Which celebrity argues that the social secretary should invite someone?,B,Bh
+60,a,Who do you allege that the secretive publisher has protected?,B,Ba
+60,b,Who alleges that the secretive publisher has protected?,B,Bb
+60,c,Which senator do you allege that the secretive publisher has protected?,B,Bc
+60,d,Which senator alleges that the secretive publisher has protected?,B,Bd
+60,e,Who do you allege that the secretive publisher has protected someone?,B,Be
+60,f,Who alleges that the secretive publisher has protected someone?,B,Bf
+60,g,Which senator do you allege that the secretive publisher has protected someone?,B,Bg
+60,h,Which senator alleges that the secretive publisher has protected someone?,B,Bh
+61,a,Who do you assume that the controversial politician would praise?,B,Ba
+61,b,Who assumes that the controversial politican would praise?,B,Bb
+61,c,Which author do you assume that the controversial politician would praise?,B,Bc
+61,d,Which author assumes that the controversial politican would praise?,B,Bd
+61,e,Who do you assume that the controversial politician would praise anyone?,B,Be
+61,f,Who assumes that the controversial politician would praise anyone?,B,Bf
+61,g,Which author do you assume that the controversial politician would praise anyone?,B,Bg
+61,h,Which author assumes that the controversial politican would praise anyone?,B,Bh
+62,a,Who do you feel that the article will bother?,B,Ba
+62,b,Who feels that the article will bother?,B,Bb
+62,c,Which politician do you feel that the article will bother?,B,Bc
+62,d,Which politician feels that the article will bother?,B,Bd
+62,e,Who do you feel that the article will bother someone?,B,Be
+62,f,Who feels that the article will bother someone?,B,Bf
+62,g,Which politician do you feel that the article will bother someone?,B,Bg
+62,h,Which politician feels that the article will bother someone?,B,Bh
+63,a,Who do you suppose that the new boss won't include?,B,Ba
+63,b,Who supposes that the new boss won't include?,B,Bb
+63,c,Which worker do you suppose that the new boss won't include?,B,Bc
+63,d,Which worker supposes that the new boss won't include?,B,Bd
+63,e,Who do you suppose that the new boss won't include anyone?,B,Be
+63,f,Who supposes that the new boss won't include anyone?,B,Bf
+63,g,Which worker do you suppose that the new boss won't include anyone?,B,Bg
+63,h,Which worker supposes that the new boss won't include anyone?,B,Bh
+64,a,Who do you think that the new professor isn't going to persuade?,B,Ba
+64,b,Who thinks that the new professor isn't going to persuade?,B,Bb
+64,c,Which donor do you think that the new professor isn't going to persuade?,B,Bc
+64,d,Which donor thinks that the new professor isn't going to persuade?,B,Bd
+64,e,Who do you think that the new professor isn't going to persuade anyone?,B,Be
+64,f,Who thinks that the new professor isn't going to persuade anyone?,B,Bf
+64,g,Which donor do you think that the new professor isn't going to persuade anyone?,B,Bg
+64,h,Which donor thinks that the new professor isn't going to persuade anyone?,B,Bh
+65,fa,Who did you hear the claim that the politican would visit?,A,Afa
+65,fb,Which dissident did you hear the claim that the politician would visit?,A,Afb
+65,fc,Who heard the claim that the politician would visit?,A,Afc
+65,fd,Which dissident heard the claim that the politician would visit?,A,Afd
+66,fa,Who do you wonder who will worship?,A,Afa
+66,fb,Which shaman do you wonder who will worship?,A,Afb
+66,fc,Who wonders who will worship?,A,Afc
+66,fd,Which shaman wonders who will worship?,A,Afd
+67,fa,Who do you approve of the plan that the administrator should mentor someone?,A,Afa
+67,fb,Which employee do you approve of the plan that the administrator should mentor someone?,A,Afb
+67,fc,Who approves of the plan that the administrator will mentor someone?,A,Afc
+67,fd,Which employee approves of the plan that the administrator will mentor someone?,A,Afd
+68,fa,Who do you wonder who will coach someone?,A,Afa
+68,fb,Which rookie do you wonder who will coach someone?,A,Afb
+68,fc,Who wonders who will coach someone?,A,Afc
+68,fd,Which rookies wonders who will coach someone?,A,Afd
+69,fa,Who should everyone accept the fact that the legislature won’t govern? ,A,Afa
+69,fb,Which residents should everyone accept the fact that the legislature won't govern?,A,Afb
+69,fc,Who accepts the fact that the legislature won’t govern?,A,Afc
+69,fd,Which residents accept the fact that the legislature won't govern?,A,Afd
+70,fa,Who does everyone know whether we ought to investigate?,A,Afa
+70,fb,Which stockbrokers does everyone know whether we ought to investigate?,A,Afb
+70,fc,Who does everyone know whether we ought to investigate?,A,Afc
+70,fd,Which stockbrokers does everyone know whether we ought to investigate?,A,Afd
+71,fa,Who did everyone believe the rumor that the agents arrested someone?,B,Bfa
+71,fb,Which journalist did everyone believe the rumor that the agents arrested someone?,B,Bfb
+71,fc,Who believed the rumor that the agents arrested someone?,B,Bfc
+71,fd,Which journalist believed the rumor that the agents arrested someone?,B,Bfd
+72,fa,Who does everyone know whether the governor wouldn’t appoint anyone?,B,Bfa
+72,fb,Which judge does everyone know whether the governor wouldn’t appoint anyone?,B,Bfb
+72,fc,Who knows whether the governor wouldn’t appoint anyone?,B,Bfc
+72,fd,Which judge knows whether the governor wouldn’t appoint anyone?,B,Bfd
+73,fa,Who does Laura remember the proposal that the minister should advise?,B,Bfa
+73,fb,Which parishioner does Laura remember the proposal that the minister should advise?,B,Bfb
+73,fc,Who remembers the proposal that the minister should advise?,B,Bfc
+73,fd,Which parishioner remembers the proposal that the minister should advise?,B,Bfd
+74,fa,Who does Ned ask himself who is watching?,B,Bfa
+74,fb,Which child does Ned ask himself who is watching?,B,Bfb
+74,fc,Who asks himself who is watching?,B,Bfc
+74,fd,Which child asks himself who is watching?,B,Bfd
+75,fa,Who did Otto receive the news that the senator wasn’t mourning anyone?,B,Bfa
+75,fb,Which journalist did Otto receive the news that the senator wasn’t mourning anyone?,B,Bfb
+75,fc,Who received the news that the senator wasn’t mourning anyone?,B,Bfc
+75,fd,Which journalist received the news that the senator wasn’t mourning anyone?,B,Bfd
+76,fa,Who did Pam ponder who should visit someone? ,B,Bfa
+76,fb,Which elder did Pam ponder who should visit someone?,B,Bfb
+76,fc,Who pondered who should visit someone?,B,Bfc
+76,fd,Which elder pondered who should visit someone?,B,Bfd
+77,fz,Who heard the claim about that would shock everyone?,A,Afz
+78,fz,Who did Quentin make a remark about that would be disqualifying?,A,Afz
+79,fz,Which gamer wrote an essay for that would be incriminating?,A,Afz
+80,fz,Which artist did Reba design a sculpture for that would inspire everyone?,A,Afz
+81,fz,Who wondered aloud to whether the weather would be pleasant?,A,Afz
+82,fz,Who did you ask if they could recommend someone?,A,Afz
+83,fz,Which prankster didn’t seem to that the joke would amuse anyone?,A,Afz
+84,fz,Which clerk did it seem to you that the manager should promote?,A,Afz
+85,fz,Who loves the news about that excited everyone?,A,Afz
+86,fz,Who did everyone send a message to that went viral?,A,Afz
+87,fz,Which designer offered a job to that would challenge?,B,Bfz
+88,fz,Which celebrity does everyone have an opinion about that might offend someone?,B,Bfz
+89,fz,Who inquired of whether the homework was due?,B,Bfz
+90,fz,Who did Susan ask whether the students knew anything?,B,Bfz
+91,fz,Which singer confided in that her music wasn't for everyone?,B,Bfz
+92,fz,Which friend did Tito assure that he was healthy?,B,Bfz
+93,fz,Who believes in the claim that exercising with can improve?,B,Bfz
+94,fz,Who did you discover for a fact played the ukelele for someone?,B,Bfz
+95,fz,Which player was unsure about during the contract negotiation?,B,Bfz
+96,fz,Which comedian did you know without a doubt would make make an appearance?,B,Bfz
