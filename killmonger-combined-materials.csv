@@ -511,71 +511,71 @@ Itm,Cnd,Sentence
 64,f,Who predicted that the new principal was going to terrify someone?
 64,g,Which counselor did everyone predict that the new principal was going to terrify someone?
 64,h,Which counselor predicted that the new principal was going to terrify someone?
-65,a,Who did you hear the claim that the politican would visit?
-65,b,Which dissident did you hear the claim that the politician would visit?
-65,c,Who heard the claim that the politician would visit?
-65,d,Which dissident heard the claim that the politician would visit?
-66,a,Who do you wonder who will worship?
-66,b,Which shaman do you wonder who will worship?
-66,c,Who wonders who will worship?
-66,d,Which shaman wonders who will worship?
-67,a,Who do you approve of the plan that the administrator should mentor someone?
-67,b,Which employee do you approve of the plan that the administrator should mentor someone?
-67,c,Who approves of the plan that the administrator will mentor someone?
-67,d,Which employee approves of the plan that the administrator will mentor someone?
-68,a,Who do you wonder who will coach someone?
-68,b,Which rookie do you wonder who will coach someone?
-68,c,Who wonders who will coach someone?
-68,d,Which rookies wonders who will coach someone?
-69,a,Who should everyone accept the fact that the legislature won’t govern? 
-69,b,Which residents should everyone accept the fact that the legislature won't govern?
-69,c,Who accepts the fact that the legislature won’t govern?
-69,d,Which residents accept the fact that the legislature won't govern?
-70,a,Who does everyone know whether we ought to investigate?
-70,b,Which stockbrokers does everyone know whether we ought to investigate?
-70,c,Who does everyone know whether we ought to investigate?
-70,d,Which stockbrokers does everyone know whether we ought to investigate?
-71,a,Who did everyone believe the rumor that the agents arrested someone?
-71,b,Which journalist did everyone believe the rumor that the agents arrested someone?
-71,c,Who believed the rumor that the agents arrested someone?
-71,d,Which journalist believed the rumor that the agents arrested someone?
-72,a,Who does everyone know whether the governor wouldn’t appoint anyone?
-72,b,Which judge does everyone know whether the governor wouldn’t appoint anyone?
-72,c,Who knows whether the governor wouldn’t appoint anyone?
-72,d,Which judge knows whether the governor wouldn’t appoint anyone?
-73,a,Who does Laura remember the proposal that the minister should advise?
-73,b,Which parishioner does Laura remember the proposal that the minister should advise?
-73,c,Who remembers the proposal that the minister should advise?
-73,d,Which parishioner remembers the proposal that the minister should advise?
-74,a,Who does Ned ask himself who is watching?
-74,b,Which child does Ned ask himself who is watching?
-74,c,Who asks himself who is watching?
-74,d,Which child asks himself who is watching?
-75,a,Who did Otto receive the news that the senator wasn’t mourning anyone?
-75,b,Which journalist did Otto receive the news that the senator wasn’t mourning anyone?
-75,c,Who received the news that the senator wasn’t mourning anyone?
-75,d,Which journalist received the news that the senator wasn’t mourning anyone?
-76,a,Who did Pam ponder who should visit someone? 
-76,b,Which elder did Pam ponder who should visit someone?
-76,c,Who pondered who should visit someone?
-76,d,Which elder pondered who should visit someone?
-77,f,Who heard the claim about that would shock everyone?
-78,f,Who did Quentin make a remark about that would be disqualifying?
-79,f,Which gamer wrote an essay for that would be incriminating?
-80,f,Which artist did Reba design a sculpture for that would inspire everyone?
-81,f,Who wondered aloud to whether the weather would be pleasant?
-82,f,Who did you ask if they could recommend someone?
-83,f,Which prankster didn’t seem to that the joke would amuse anyone?
-84,f,Which clerk did it seem to you that the manager should promote?
-85,f,Who loves the news about that excited everyone?
-86,f,Who did everyone send a message to that went viral?
-87,f,Which designer offered a job to that would challenge?
-88,f,Which celebrity does everyone have an opinion about that might offend someone?
-89,f,Who inquired of whether the homework was due?
-90,f,Who did Susan ask whether the students knew anything?
-91,f,Which singer confided in that her music wasn't for everyone?
-92,f,Which friend did Tito assure that he was healthy?
-93,f,Who believes in the claim that exercising with can improve?
-94,f,Who did you discover for a fact played the ukelele for someone?
-95,f,Which player was unsure about during the contract negotiation?
-96,f,Which comedian did you know without a doubt would make make an appearance?
+65,s,Who did you hear the claim that the politican would visit?
+65,t,Which dissident did you hear the claim that the politician would visit?
+65,u,Who heard the claim that the politician would visit?
+65,v,Which dissident heard the claim that the politician would visit?
+66,s,Who do you wonder who will worship?
+66,t,Which shaman do you wonder who will worship?
+66,u,Who wonders who will worship?
+66,v,Which shaman wonders who will worship?
+67,s,Who do you approve of the plan that the administrator should mentor someone?
+67,t,Which employee do you approve of the plan that the administrator should mentor someone?
+67,u,Who approves of the plan that the administrator will mentor someone?
+67,v,Which employee approves of the plan that the administrator will mentor someone?
+68,s,Who do you wonder who will coach someone?
+68,t,Which rookie do you wonder who will coach someone?
+68,u,Who wonders who will coach someone?
+68,v,Which rookies wonders who will coach someone?
+69,s,Who should everyone accept the fact that the legislature won’t govern? 
+69,t,Which residents should everyone accept the fact that the legislature won't govern?
+69,u,Who accepts the fact that the legislature won’t govern?
+69,v,Which residents accept the fact that the legislature won't govern?
+70,s,Who does everyone know whether we ought to investigate?
+70,t,Which stockbrokers does everyone know whether we ought to investigate?
+70,u,Who does everyone know whether we ought to investigate?
+70,v,Which stockbrokers does everyone know whether we ought to investigate?
+71,s,Who did everyone believe the rumor that the agents arrested someone?
+71,t,Which journalist did everyone believe the rumor that the agents arrested someone?
+71,u,Who believed the rumor that the agents arrested someone?
+71,v,Which journalist believed the rumor that the agents arrested someone?
+72,s,Who does everyone know whether the governor wouldn’t appoint anyone?
+72,t,Which judge does everyone know whether the governor wouldn’t appoint anyone?
+72,u,Who knows whether the governor wouldn’t appoint anyone?
+72,v,Which judge knows whether the governor wouldn’t appoint anyone?
+73,s,Who does Laura remember the proposal that the minister should advise?
+73,t,Which parishioner does Laura remember the proposal that the minister should advise?
+73,u,Who remembers the proposal that the minister should advise?
+73,v,Which parishioner remembers the proposal that the minister should advise?
+74,s,Who does Ned ask himself who is watching?
+74,t,Which child does Ned ask himself who is watching?
+74,u,Who asks himself who is watching?
+74,v,Which child asks himself who is watching?
+75,s,Who did Otto receive the news that the senator wasn’t mourning anyone?
+75,t,Which journalist did Otto receive the news that the senator wasn’t mourning anyone?
+75,u,Who received the news that the senator wasn’t mourning anyone?
+75,v,Which journalist received the news that the senator wasn’t mourning anyone?
+76,s,Who did Pam ponder who should visit someone? 
+76,t,Which elder did Pam ponder who should visit someone?
+76,u,Who pondered who should visit someone?
+76,v,Which elder pondered who should visit someone?
+77,z,Who heard the claim about that would shock everyone?
+78,z,Who did Quentin make a remark about that would be disqualifying?
+79,z,Which gamer wrote an essay for that would be incriminating?
+80,z,Which artist did Reba design a sculpture for that would inspire everyone?
+81,z,Who wondered aloud to whether the weather would be pleasant?
+82,z,Who did you ask if they could recommend someone?
+83,z,Which prankster didn’t seem to that the joke would amuse anyone?
+84,z,Which clerk did it seem to you that the manager should promote?
+85,z,Who loves the news about that excited everyone?
+86,z,Who did everyone send a message to that went viral?
+87,z,Which designer offered a job to that would challenge?
+88,z,Which celebrity does everyone have an opinion about that might offend someone?
+89,z,Who inquired of whether the homework was due?
+90,z,Who did Susan ask whether the students knew anything?
+91,z,Which singer confided in that her music wasn't for everyone?
+92,z,Which friend did Tito assure that he was healthy?
+93,z,Who believes in the claim that exercising with can improve?
+94,z,Who did you discover for a fact played the ukelele for someone?
+95,z,Which player was unsure about during the contract negotiation?
+96,z,Which comedian did you know without a doubt would make make an appearance?
