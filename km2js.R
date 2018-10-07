@@ -6,7 +6,7 @@ x <- ' "FlashSentence", {s: "+"}, "DashedSentence", {s: "'
 y <- '"}, "QuestionExpanded", {q: "Acceptable?"}, "Question", {q: "How confident are you?"}],'
 
 createJsString <- function(itm,cnd,sentence){
-  paste('["',cnd,'",',itm,'],', sep="") %>%
+  paste('[["',cnd,'",',itm,'],', sep="") %>%
     paste(., x, sentence, y, sep="") %>%
     return
 }
