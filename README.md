@@ -10,5 +10,7 @@ Matt Wagers <mwagers@ucsc.edu>
 For a .csv file with columns `itm`, `cond`, and `sentence`, the following works to convert those materials to json.
 
 ```
+# Creates file targets.js which can be embedded in an Ibex data includes file
+
 Rscript km2js.R
 ```
