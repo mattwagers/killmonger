@@ -1,4 +1,4 @@
-var shuffleSequence = seq("setcounter", "practice1", "practice2", "practice3", "practice4", "practice5", "practice6", "practice7", randomize(anyOf("a", "b", "c", "d", "e", "f", "g", "h")), "sr");
+var shuffleSequence = seq("setcounter", randomize(anyOf("a", "b", "c", "d", "e", "f", "g", "h")), "sr");
 
         var practiceItemTypes = ["practice"];
 
