@@ -1,4 +1,4 @@
-var shuffleSequence = seq("intro0", "setcounter", "intro1", "practice1", "practice2", "practice3", "practice4", "practice5", "practice6", "practice7", randomize(anyOf("a","b","c","d","e","f","g","h"), "final0", "sr", "final1");
+var shuffleSequence = seq("setcounter", "practice1", "practice2", "practice3", "practice4", "practice5", "practice6", "practice7", randomize(anyOf("a","b","c","d","e","f","g","h"), "sr");
 
 var practiceItemTypes = ["practice"];
 
@@ -51,13 +51,13 @@ var items = [
 
 ["sep", "Separator", { }],
 
-["intro0","Form",{html: { include: "intro0.html" }}],
+//["intro0","Form",{html: { include: "intro0.html" }}],
 
-["intro1","Form",{html: { include: "intro1.html" }}],  
+//["intro1","Form",{html: { include: "intro1.html" }}],  
 
-["final0", "Form", {html: { include: "final0.html" } }],
+//["final0", "Form", {html: { include: "final0.html" } }],
 
-["final1", "Form", {continueMessage: null, html: {include: "final1.html"} }],  
+//["final1", "Form", {continueMessage: null, html: {include: "final1.html"} }],  
 
 //Practice Items
 [["practice1", 121], "FlashSentence", {s: "+"}, "DashedSentence", {s: "Those cats was snoring loudly."}, "QuestionExpanded", {q: "Is this sentence grammatical?"}, "Question", {q: "How confident are you in your decision?"}],
