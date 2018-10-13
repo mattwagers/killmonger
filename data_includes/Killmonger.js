@@ -22,8 +22,8 @@ var DS = 'DashedAcceptabilityJudgment';
 
 // Controller settings.
 var defaults = [
-    DS, {q: 'Is that sentence grammatical?',
-        as: [['s','Yes'],['k','No']],
+    DS, {q: 'Is that sentence acceptable?',
+        as: [['f','Yes'],['j','No']],
         randomOrder: false,
         presentHorizontally: true,
         mode: 'speeded acceptability',
