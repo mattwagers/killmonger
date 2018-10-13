@@ -10,23 +10,23 @@ var showProgressBar = false;
 var block_order = Math.random();
 if (block_order < 0.5) {
     var shuffleSequence = seq(
-//    'consent',
+    'consent',
     'setcounter',
     'demographics',
     'prepractice',
     'practice',
-    rshuffle(startsWith("A")),
-    rshuffle(startsWith("B")),
+    sepWith("timeoutSet", rshuffle(startsWith("A"))),
+    sepWith("timeoutSet", rshuffle(startsWith("B"))),
     'debrief');
 } else {
     var shuffleSequence = seq(
-//    'consent',
+    'consent',
     'setcounter',
     'demographics',
     'prepractice',
     'practice',
-    rshuffle(startsWith("B")),
-    rshuffle(startsWith("A")),
+    sepWith("timeoutSet", rshuffle(startsWith("B"))),
+    sepWith("timeoutSet", rshuffle(startsWith("A"))),
     'debrief');
 }
 
