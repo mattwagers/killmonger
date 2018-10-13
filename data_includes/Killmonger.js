@@ -12,7 +12,7 @@ if (block_order < 0.5) {
     var shuffleSequence = seq(
     'consent',
     'setcounter',
-    'intro',
+    'demographics',
     'prepractice',
     'practice',
     rshuffle(startsWith("A")),
@@ -22,7 +22,7 @@ if (block_order < 0.5) {
     var shuffleSequence = seq(
     'consent',
     'setcounter',
-    'intro',
+    'demographics',
     'prepractice',
     'practice',
     rshuffle(startsWith("B")),
@@ -48,7 +48,7 @@ var DS = 'DashedAcceptabilityJudgment';
 // Controller settings.
 var defaults = [
     DS, {q: 'Is that sentence acceptable?',
-        as: [['f','Yes'],['j','No']],
+        as: [['f','Yes [f]'],['j','No [j]']],
         randomOrder: false,
         presentHorizontally: true,
         mode: 'speeded acceptability',
@@ -84,7 +84,7 @@ var items = [
 ["timeoutSep", Separator, { transfer: 1000, normalMessage: "+", errorMessage: "Timed out. Please respond more quickly."}],
 
 ["consent", "Form", {consentRequired: true, html: {include: "consent.html"}}],
-["intro", "SSForm", {consentRequired: true, html: {include: "intro.html"}}],
+["demographics", "Form", {consentRequired: true, html: {include: "demographic-survey.html"}}],
 ["debrief", "Form", {consentRequired: true, html: {include: "debrief.html"}}],
 ["exit", "Form", {consentRequired: true, html: {include: "exit.html"}}],
 
