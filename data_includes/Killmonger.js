@@ -7,8 +7,33 @@
 var showProgressBar = false;
 
 // Main shuffleSequence definition
+var block_order = Math.random();
+if (block_order < 0.5) {
+    var shuffleSequence = seq(
+    'consent',
+    'setcounter',
+    'intro',
+    'prepractice',
+    'practice',
+    rshuffle(startsWith("A")),
+    rshuffle(startsWith("B")),
+    'debrief');
+} else {
+    var shuffleSequence = seq(
+    'consent',
+    'setcounter',
+    'intro',
+    'prepractice',
+    'practice',
+    rshuffle(startsWith("B")),
+    rshuffle(startsWith("A")),
+    'debrief');
+}
+
+
+
 var shuffleSequence = seq(
-//  'consent',
+    'consent',
     'setcounter',
     'intro',
     'prepractice',
