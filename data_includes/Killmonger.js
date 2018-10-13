@@ -32,15 +32,15 @@ if (block_order < 0.5) {
 
 
 
-var shuffleSequence = seq(
-    'consent',
-    'setcounter',
-    'intro',
-    'prepractice',
-    'practice',
-    sepWith("timeoutSep", rshuffle(startsWith('ROC'),startsWith('f'))),
-    'debrief',
-    'exit');
+//var shuffleSequence = seq(
+ //   'consent',
+  //  'setcounter',
+//    'intro',
+ //   'prepractice',
+ //   'practice',
+ //   sepWith("timeoutSep", rshuffle(startsWith('ROC'),startsWith('f'))),
+ //   'debrief',
+ //   'exit');
 
 // Variable definitions.
 var DS = 'DashedAcceptabilityJudgment';
@@ -48,7 +48,7 @@ var DS = 'DashedAcceptabilityJudgment';
 // Controller settings.
 var defaults = [
     DS, {q: 'Is that sentence acceptable?',
-        as: [['f','Yes [f]'],['j','No [j]']],
+        as: [['f','Yes'],['j','No']],
         randomOrder: false,
         presentHorizontally: true,
         mode: 'speeded acceptability',
