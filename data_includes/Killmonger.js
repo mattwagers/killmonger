@@ -7,17 +7,40 @@
 var showProgressBar = false;
 
 // Main shuffleSequence definition
-
-
-var shuffleSequence = seq(
+var block_order = Math.random();
+if (block_order < 0.5) {
+    var shuffleSequence = seq(
+//    'consent',
+    'setcounter',
+//    'demographics',
+    'prepractice',
+    'practice',
+    sepWith("timeoutSep", rshuffle(startsWith("A"))),
+    sepWith("timeoutSep", rshuffle(startsWith("B"))),
+    'debrief');
+} else {
+    var shuffleSequence = seq(
  //   'consent',
-      'setcounter',
+    'setcounter',
+ //   'demographics',
+    'prepractice',
+    'practice',
+    sepWith("timeoutSep", rshuffle(startsWith("B"))),
+    sepWith("timeoutSep", rshuffle(startsWith("A"))),
+    'debrief');
+}
+
+
+
+//var shuffleSequence = seq(
+ //   'consent',
+//      'setcounter',
 //    'intro',
-      'prepractice',
-     'practice',
-     sepWith("timeoutSep", rshuffle(startsWith('A'),startsWith('B'))),
-     'debrief',
-     'exit');
+ //     'prepractice',
+  //   'practice',
+//     sepWith("timeoutSep", rshuffle(startsWith('A'),startsWith('B'))),
+ //    'debrief',
+  //   'exit');
 
 // Variable definitions.
 var DS = 'DashedAcceptabilityJudgment';
