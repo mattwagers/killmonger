@@ -15,7 +15,7 @@ var shuffleSequence = seq(
 //    'intro',
       'prepractice',
      'practice',
-     sepWith("timeoutSep", rshuffle(startsWith('ROC'),startsWith('f'))),
+     sepWith("timeoutSep", rshuffle(startsWith('A'),startsWith('B'))),
      'debrief',
      'exit');
 
