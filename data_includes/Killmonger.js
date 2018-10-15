@@ -10,9 +10,9 @@ var showProgressBar = false;
 var block_order = Math.random();
 if (block_order < 0.5) {
     var shuffleSequence = seq(
-//    'consent',
+    'welcome',
     'setcounter',
-//    'demographics',
+    'demographics',
     'prepractice',
     'practice',
     sepWith("timeoutSep", rshuffle(startsWith("A"))),
@@ -20,9 +20,9 @@ if (block_order < 0.5) {
     'debrief');
 } else {
     var shuffleSequence = seq(
- //   'consent',
+    'welcome',
     'setcounter',
- //   'demographics',
+    'demographics',
     'prepractice',
     'practice',
     sepWith("timeoutSep", rshuffle(startsWith("B"))),
@@ -82,7 +82,7 @@ var items = [
 
 ["setcounter", "__SetCounter__", { }],
 ["timeoutSep", Separator, { transfer: 1000, normalMessage: "+", errorMessage: "Timed out. Please respond more quickly."}],
-["consent", "Form", {consentRequired: true, html: {include: "consent.html"}}],
+["welcome", "Form", {consentRequired: true, html: {include: "welcome.html"}}],
 ["demographics", "Form", {consentRequired: true, html: {include: "demographic-survey.html"}}],
 ["debrief", "Form", {consentRequired: true, html: {include: "debrief.html"}}],
 ["exit", "Form", {consentRequired: true, html: {include: "exit.html"}}],
