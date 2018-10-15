@@ -9,7 +9,9 @@ var showProgressBar = false;
 var block_order = Math.random();
 if (block_order < 0.5) {
     var shuffleSequence = seq(
+    'welcome',
     'setcounter',
+    'demographics',
     'prepractice',
     'practice',
     sepWith("timeoutSep", rshuffle(startsWith("A"))),
@@ -17,7 +19,9 @@ if (block_order < 0.5) {
     'debrief');
 } else {
     var shuffleSequence = seq(
+    'welcome',
     'setcounter',
+    'demographics',
     'prepractice',
     'practice',
     sepWith("timeoutSep", rshuffle(startsWith("B"))),
@@ -30,7 +34,7 @@ var DS = 'DashedAcceptabilityJudgment';
 
 // Controller settings.
 var defaults = [
-    DS, {q: 'Is that sentence acceptable?',
+    DS, {q: 'Is that sentence grammatical?',
         as: [['f','Yes'],['j','No']],
         randomOrder: false,
         presentHorizontally: true,
@@ -81,7 +85,7 @@ var items = [
 
 
 ["practice", Separator, { transfer: 1000, normalMessage: "+"}],
-["practice", DS, {s: "Those cats was snoring loudly."},Question,{q: 'Please indicate your confidence',as: ['Very confident','Somewhat confident','Not confident'],randomOrder: false,presentHorizontally: false}],
+["practice", DS, {s: "Which cats do Jen always want to pet?"},Question,{q: 'Please indicate your confidence',as: ['Very confident','Somewhat confident','Not confident'],randomOrder: false,presentHorizontally: false}],
 
 ["practice", Message, {consentRequired: false,
                    html: ["div",
@@ -89,9 +93,9 @@ var items = [
                            ["p", "Let's try some more."]
                          ]}],
 
-["practice", Separator, { transfer: 1000, normalMessage: "+"}, DS, {s: "At the ball, the prince waltzed with every girl before midnight."},Question,{q: 'Please indicate your confidence',as: ['Very confident','Somewhat confident','Not confident'],randomOrder: false,presentHorizontally: false}],
-["practice", Separator, { transfer: 1000, normalMessage: "+"}, DS, {s: "Without warning, Geoffrey turned and screamed at the waiter who embarrassed itself."},Question,{q: 'Please indicate your confidence',as: ['Very confident','Somewhat confident','Not confident'],randomOrder: false,presentHorizontally: false}],
-["practice", Separator, { transfer: 1000, normalMessage: "+"}, DS, {s: "Madame de Plessy sat up all night worrying about her son, who was fighting the invaders."},Question,{q: 'Please indicate your confidence',as: ['Very confident','Somewhat confident','Not confident'],randomOrder: false,presentHorizontally: false}],
+["practice", Separator, { transfer: 1000, normalMessage: "+"}, DS, {s: "Who did you think that Sue should meet before inviting?"},Question,{q: 'Please indicate your confidence',as: ['Very confident','Somewhat confident','Not confident'],randomOrder: false,presentHorizontally: false}],
+["practice", Separator, { transfer: 1000, normalMessage: "+"}, DS, {s: "Which candidate does everyone agree voters should reject someone?"},Question,{q: 'Please indicate your confidence',as: ['Very confident','Somewhat confident','Not confident'],randomOrder: false,presentHorizontally: false}],
+["practice", Separator, { transfer: 1000, normalMessage: "+"}, DS, {s: "Who thinks that we shouldn't hire anyone this year?"},Question,{q: 'Please indicate your confidence',as: ['Very confident','Somewhat confident','Not confident'],randomOrder: false,presentHorizontally: false}],
 
 ["practice", Message, {consentRequired: false,
                    html: ["div",
@@ -681,4 +685,4 @@ var items = [
 [["Bfz",93], DS, {s: "Who believes in the claim that exercising with can improve?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
 [["Bfz",94], DS, {s: "Who did you discover for a fact played the ukelele for someone?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
 [["Bfz",95], DS, {s: "Which player was unsure about during the contract negotiation?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
-                         [["Bfz",96], DS, {s: "Which comedian did you know without a doubt would make make an appearance?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}]];
+[["Bfz",96], DS, {s: "Which comedian did you know without a doubt would make make an appearance?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}]];
