@@ -10,8 +10,8 @@ var showProgressBar = false;
 var block_order = Math.random();
 if (block_order < 0.5) {
     var shuffleSequence = seq(
-    'welcome',
     'setcounter',
+    'welcome',
     'demographics',
     'prepractice',
     'practice',
@@ -20,8 +20,8 @@ if (block_order < 0.5) {
     'debrief');
 } else {
     var shuffleSequence = seq(
-    'welcome',
     'setcounter',
+    'welcome',
     'demographics',
     'prepractice',
     'practice',
