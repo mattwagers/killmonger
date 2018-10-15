@@ -1,6 +1,5 @@
-// ROCOUT - 6 point online rating version
-// Implements word by word presentation, with 6 point judgment scale at the end
-// (a modified version of van Dyke & Lewis (2003) methodology)
+// KILLMONGER < ROCOUT - 6 point online rating version
+// Implements word by word presentation, with 2 FC + 3 pt Confidence judgment scale at the end
 
 // Asserts breaks every 12 items.
 
@@ -10,8 +9,8 @@ var showProgressBar = false;
 var block_order = Math.random();
 if (block_order < 0.5) {
     var shuffleSequence = seq(
-    'setcounter',
     'welcome',
+    'setcounter',
     'demographics',
     'prepractice',
     'practice',
@@ -20,8 +19,8 @@ if (block_order < 0.5) {
     'debrief');
 } else {
     var shuffleSequence = seq(
-    'setcounter',
     'welcome',
+    'setcounter',
     'demographics',
     'prepractice',
     'practice',
@@ -29,18 +28,6 @@ if (block_order < 0.5) {
     sepWith("timeoutSep", rshuffle(startsWith("A"))),
     'debrief');
 }
-
-
-
-//var shuffleSequence = seq(
- //   'consent',
-//      'setcounter',
-//    'intro',
- //     'prepractice',
-  //   'practice',
-//     sepWith("timeoutSep", rshuffle(startsWith('A'),startsWith('B'))),
- //    'debrief',
-  //   'exit');
 
 // Variable definitions.
 var DS = 'DashedAcceptabilityJudgment';
@@ -698,5 +685,4 @@ var items = [
 [["Bfz",93], DS, {s: "Who believes in the claim that exercising with can improve?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
 [["Bfz",94], DS, {s: "Who did you discover for a fact played the ukelele for someone?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
 [["Bfz",95], DS, {s: "Which player was unsure about during the contract negotiation?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
-[["Bfz",96], DS, {s: "Which comedian did you know without a doubt would make make an appearance?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}]
-                     ];
+                         [["Bfz",96], DS, {s: "Which comedian did you know without a doubt would make make an appearance?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}]];
