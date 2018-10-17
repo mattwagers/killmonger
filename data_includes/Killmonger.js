@@ -6,28 +6,10 @@
 var showProgressBar = false;
 
 // Main shuffleSequence definition
-var block_order = Math.random();
-if (block_order < 0.5) {
-    var shuffleSequence = seq(
-    "welcome",
-    "setcounter",
-    "demographics",
-    "prepractice",
-    "practice",
-    sepWith("timeoutSep", rshuffle(startsWith("A"))),
-    sepWith("timeoutSep", rshuffle(startsWith("B"))),
-    "debrief");
-} else {
-    var shuffleSequence = seq(
-    "welcome",
-    "setcounter",
-    "demographics",
-    "prepractice",
-    "practice",
-    sepWith("timeoutSep", rshuffle(startsWith("B"))),
-    sepWith("timeoutSep", rshuffle(startsWith("A"))),
-    "debrief");
-}
+//var block_order = Math.random();
+//if (block_order < 0.5) {
+var shuffleSequence = seq("welcome","setcounter","demographics","prepractice","practice", sepWith("timeoutSep", rshuffle(startsWith("A"))), sepWith("timeoutSep", rshuffle(startsWith("B"))),"debrief");
+
 
 // Variable definitions.
 var DS = 'DashedAcceptabilityJudgment';
