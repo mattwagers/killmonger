@@ -9,24 +9,24 @@ var showProgressBar = false;
 var block_order = Math.random();
 if (block_order < 0.5) {
     var shuffleSequence = seq(
-    'welcome',
-    'setcounter',
-    'demographics',
-    'prepractice',
-    'practice',
+    "welcome",
+    "setcounter",
+    "demographics",
+    "prepractice",
+    "practice",
     sepWith("timeoutSep", rshuffle(startsWith("A"))),
     sepWith("timeoutSep", rshuffle(startsWith("B"))),
-    'debrief');
+    "debrief");
 } else {
     var shuffleSequence = seq(
-    'welcome',
-    'setcounter',
-    'demographics',
-    'prepractice',
-    'practice',
+    "welcome",
+    "setcounter",
+    "demographics",
+    "prepractice",
+    "practice",
     sepWith("timeoutSep", rshuffle(startsWith("B"))),
     sepWith("timeoutSep", rshuffle(startsWith("A"))),
-    'debrief');
+    "debrief");
 }
 
 // Variable definitions.
