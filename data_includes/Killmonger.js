@@ -41,7 +41,7 @@ var defaults = [
         mode: 'speeded acceptability',
         display: 'in place',
         blankText: '+',
-        wordTime: 225,
+        wordTime: 250,
         wordPauseTime: 100,
         timeout: 2000}
 ];
