@@ -5,6 +5,11 @@
 
 var showProgressBar = false;
 
+var sendingResultsMessage = "Please wait. Your data are being sent to the server."; 
+var completionMessage = "Thank you for your participation. Your completion code is 6QK25QFR  To complete this experiment, go to: https://app.prolific.ac/submissions/complete?cc= 6QK25QFR."; 
+var completionErrorMessage = "There was an error in sending your data to the server. You may still complete this experiment. Your completion code is 6QK25QFR  Please go to: https://app.prolific.ac/submissions/complete?cc= 6QK25QFR."; 
+
+
 // Main shuffleSequence definition
 var block_order = Math.random();
 if (block_order < 0.5) {
@@ -41,7 +46,7 @@ var defaults = [
         mode: 'speeded acceptability',
         display: 'in place',
         blankText: '+',
-        wordTime: 250,
+        wordTime: 275,
         wordPauseTime: 100,
         timeout: 2000}
 ];
@@ -51,8 +56,8 @@ function modifyRunningOrder(ro)
 {
     for (var i = 0; i < ro.length; ++i)
     {
-        if (i % 12 == 10
-            && i > 13
+        if (i % 24 == 10
+            && i > 25
             && i < 200)
         {
             ro[i].push(new DynamicElement(
@@ -245,7 +250,7 @@ var items = [
 [["Aa",18], DS, {s: "Who is Mary convinced that the authorities should arrest?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
 [["Ab",18], DS, {s: "Who is convinced that the authorities should arrest?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
 [["Ac",18], DS, {s: "Which aide is Mary convinced that the authorities should arrest?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
-[["Ad",18], DS, {s: "Which aide is convinced that the the investigators should arrest?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
+[["Ad",18], DS, {s: "Which aide is convinced that the investigators should arrest?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
 [["Ae",18], DS, {s: "Who is Mary convinced that the authorities should arrest someone?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
 [["Af",18], DS, {s: "Who is convinced that the authorities should arrest someone?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
 [["Ag",18], DS, {s: "Which aide is Mary convinced that the authorities should arrest someone?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
@@ -477,7 +482,7 @@ var items = [
 [["Ba",47], DS, {s: "Who is Mary convinced that the authorities should arrest?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
 [["Bb",47], DS, {s: "Who is convinced that the authorities should arrest?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
 [["Bc",47], DS, {s: "Which aide is Mary convinced that the authorities should arrest?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
-[["Bd",47], DS, {s: "Which aide is convinced that the the investigators should arrest?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
+[["Bd",47], DS, {s: "Which aide is convinced that the investigators should arrest?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
 [["Be",47], DS, {s: "Who is Mary convinced that the authorities should arrest someone?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
 [["Bf",47], DS, {s: "Who is convinced that the authorities should arrest someone?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
 [["Bg",47], DS, {s: "Which aide is Mary convinced that the authorities should arrest someone?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
@@ -685,4 +690,4 @@ var items = [
 [["Bfz",93], DS, {s: "Who believes in the claim that exercising with can improve?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
 [["Bfz",94], DS, {s: "Who did you discover for a fact played the ukelele for someone?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
 [["Bfz",95], DS, {s: "Which player was unsure about during the contract negotiation?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}],
-[["Bfz",96], DS, {s: "Which comedian did you know without a doubt would make make an appearance?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}]];
+[["Bfz",96], DS, {s: "Which comedian did you know without a doubt would make an appearance?"},Question,{q: "Please indicate your confidence",as: ["Very confident","Somewhat confident","Not confident"],randomOrder: false,presentHorizontally: false}]];
