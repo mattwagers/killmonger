@@ -3,7 +3,7 @@
 
 // Asserts breaks every 12 items.
 
-var showProgressBar = false;
+var showProgressBar = true;
 
 var sendingResultsMessage = "Please wait. Your data are being sent to the server."; 
 var completionMessage = "Thank you for your participation. Your completion code is 6QK25QFR  To complete this experiment, go to: https://app.prolific.ac/submissions/complete?cc= 6QK25QFR."; 
@@ -46,7 +46,7 @@ var defaults = [
         mode: 'speeded acceptability',
         display: 'in place',
         blankText: '+',
-        wordTime: 275,
+        wordTime: 300,
         wordPauseTime: 100,
         timeout: 2000}
 ];
@@ -57,7 +57,7 @@ function modifyRunningOrder(ro)
     for (var i = 0; i < ro.length; ++i)
     {
         if (i % 24 == 10
-            && i > 25
+            && i > 13
             && i < 200)
         {
             ro[i].push(new DynamicElement(
