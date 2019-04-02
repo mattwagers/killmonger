@@ -1,0 +1,173 @@
+# Transitive Embedded Verbs + Condition H [g,dlnk,s,fld]
+appoint	19	Which executive assumes that the board of directors will appoint someone?
+appoint	25  Which guardian suspects that the judge must appoint someone?
+arrest	18	Which aide is convinced that the authorities should arrest someone? 
+arrest	26  Which stockbroker is surprised that the FBI didn’t arrest anyone?  
+bother	03	Which politician feels that the article will bother someone?
+bother	12	Which actor predicts that the rumor might bother someone?
+comfort	22	Which patient suggested that the nurse should comfort someone? 
+comfort 27  Which survivor isn't convinced that the therapist can comfort anyone?
+employ	09	Which consultant thinks that the overworked manager should employ someone?
+employ	15	Which lawyer thinks the CEO should employ someone?
+excite	17	Which voters suppose that the new plan won't excite anyone? 
+excite	28  Which partisans aren't certain that the politican will excite anyone?
+guard	08	Which witness is certain that the rookie agent can't guard anyone?
+guard	29  Which diplomat is adamant that the captain should guard someone?
+imitate	07	Which teacher is sure that the talented kid could imitate anyone?  
+imitate	11	Which diva doesn't believe that the parrot could imitate anyone?
+include	02	Which worker supposes that the new boss won't include anyone?
+include	16	Which player is sure that the coach would include anyone?
+invite	06	Which celebrity argues that the social secretary should invite someone?
+invite	14	Which speaker was surprised that the conference organizers couldn't invite anyone?
+need	23	Which carpenter was aware that the contractor wouldn't need anyone?
+need	30  Which assistant knows that the executive is going to need someone?
+praise	04	Which author assumes that the controversial politican would praise anyone?
+praise	13	Which philosopher said that the changeable dictator has praised someone?
+protect	05	Which senator alleges that the secretive publisher has protected someone?
+protect	21	Which critic will be delighted that the columnist protected someone?
+prsuade	01	Which donor thinks that the new professor is going to persuade anyone?
+prsuade	10	Which shareholder assumes that the crooked CEO could persuade anyone?
+rcgnize	20	Which accomplice is sure that the witness will recognize someone?
+rcgnize	31  Which relative is worried that the patient won't recognize anyone?
+terrify	24	Which students felt that the new teacher might terrify someone?
+terrify	32  Which counselor predicted that the new principal was going to terrify someone?
+
+# WhP
+accmplc	20
+actor 	12
+aide	18
+asstnt  30  
+author  4
+celbrt  6
+cosltnt 9
+counslr 32
+critic	21
+crpntr	23
+dplmat  29
+diva 	11
+donor   1
+exctve	19
+grdian  25
+lawyer	15
+patient	22
+prtsans 28  plural
+phlsphr	13
+player	16
+poltcn  3
+rltive  31  plural
+senator	5
+shrhldr	10
+survivr 27
+speaker	14
+stckbrk 26
+studnts	24	plural
+teachr  7
+voters	17	plural
+witness 8
+workr   2
+
+# MatrixSubj
+2.PERS	1-16
+3.P.PL	17-32 [?]
+
+# MatrixPred
+allege  5
+assume  4,10,19
+believe 11
+be_admn 29
+be_awar	23	
+be_cnvc	18,27
+be_crtn 8,28
+be_dlgh	21
+be_sprs	14,26
+be_sure 7,16,20
+be_wrrd 31
+cnjctre 6
+feel    3,24
+predict 12,32
+say  	13
+suggest	22
+suppose 2,17
+suspect 25
+think   1,9,15 
+
+# Embedded Subject
+accountant
+article
+authorities
+board_of_directors
+changeable_dictator
+captain
+coach
+columnist
+conference_organizers
+contractor
+controversial_politican
+crooked_CEO
+FBI
+judge
+new_boss
+new_plan
+new_principal
+new_professor
+nurse
+overworked_manager
+parrot
+patient
+politician
+rookie_agent
+rumor
+secretive_publisher
+social_secretary
+talented_kid
+therapist
+teacher
+witness
+
+# Embedded Object
+ao  01,02,04,07,08,10,11,14,16,17,23,26,27,28,31
+so  03,05,06,09,12,13,18,19,20,21,22,24,25,29,32
+
+
+# Embedded TAM
+cd  7,10,11,14,31
+cn  8,27
+gn  1,30,32
+hv  5,13
+mt  12,25
+PST	21,26
+sd  6,9,15,18,22,29
+wd  4,23
+wl  2,3,16,17,19,20
+
+# Negation
+matrix negation		11,27,28
+embedded negation	1,2,8,14,17,23,26,31
+
+
+# Lexical Fodder
+-- More Strong Transitives (From Gahl et al. 2004 Norms) --
+                 tr     in
+| excite      |  14 |   0 |
+| expect      |  17 |   0 |
+| terrify     |  19 |   0 |
+| comfort     |  22 |   0 |
+| annoy       |  26 |   0 |
+| arrest      |  27 |   0 |
+| disturb     |  28 |   0 |
+| amuse       |  30 |   0 |
+| elect       |  30 |   0 |
+| frighten    |  30 |   0 |
+| appoint     |  37 |   0 |
+| require     |  51 |   0 |
+| recognize   |  53 |   0 |
+| assert      |  54 |   0 |
+| describe    |  56 |   0 |
+| need        |  61 |   0 |
+| praise      |  82 |   0 |
+| include     | 110 |   0 |
+
+## Verbs from Staub 2006 not used:
+### place - no good because place =[-anim]
+### coax - no good because coax: V, _ DP TP
+### carry - awk w many [+anim] WhP
